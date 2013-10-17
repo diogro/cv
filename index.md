@@ -69,11 +69,14 @@ __Programa de Pós Graduação em Biologia e Genética__
 
 ## Bolsas
 
+`2005-2007`
+Bolsa de iniciação científica pelo CNPq
+
 `2010-2012`
 Bolsa de Mestrado pela FAPESP
 
 `2013`
-Bolsa de Trainamento Técnico pela FAPESP
+Bolsa de Treinamento Técnico pela FAPESP
 
 
 ## Publicações
@@ -147,6 +150,12 @@ __Fisiologia de Membranas__, ICB, USP
 __Biologia Evolutiva__ IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Departamento de Genética e Biologia Evolutiva
+
+`2011`
+__Processos Evolutivos__ IB, USP
+
+- Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-2013`
