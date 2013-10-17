@@ -41,8 +41,8 @@ Host-pathogen interactions at the level of microbiome and single cells. Human Mi
 
 ## Languages
 
-Portugues: Fluente
-Inglês: Fluente
+- Portugues: Fluente
+- Inglês: Fluente
 
 
 ## Formação Acadêmica
