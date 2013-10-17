@@ -10,15 +10,13 @@ Biologo Computacional, Data Scientist e Programador
 | <a href="http://github.com/diogro">github</a>
 </div>
 
-
-
 ### Especialidades
 
-Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
+Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística bayesiana.
 
 ### Interesses de pesquisa
 
-Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
+
 
 ## Languages
 
