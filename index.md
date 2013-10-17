@@ -6,10 +6,8 @@ title: Currículo Vitae Diogo Melo
 Biologo Computacional, Data Scientist e Programador
 
 <div id="webaddress">
-| <A HREF="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"</A>
-| <a href="http://eliseopapa.org">eliseopapa.org</a>
-| <a href="http://eliseopapa.org">eliseopapa.org</a>
-| <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
+| <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"</a>
+| <a href="http://github.com/diogro">github</a>
 </div>
 
 
