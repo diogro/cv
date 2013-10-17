@@ -134,6 +134,7 @@ __Biologia Evolutiva__ IB, USP
 __Processos Evolutivos__ IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
+- Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-2013`
