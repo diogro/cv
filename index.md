@@ -31,11 +31,11 @@ while(x=eval(x));
 
 
 
-### Specialized in
+### Especialidades
 
 Medical Engineering, Analysis of large data sets, Microbiome, Machine learning, Immunology, Optics, Nano/microfabrication, Phylogenetics.
 
-### Research interests
+### Interesses de pesquisa
 
 Host-pathogen interactions at the level of microbiome and single cells. Human Microbiome Project. High-throughput diagnostics. Electronic health records. Emerging properties of networks in a biological and social context. Self-organized systems.
 
@@ -83,52 +83,25 @@ Bolsa de Trainamento Técnico pela FAPESP
 ### Journals
 
 `2012`
-*Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
-[Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242)
-**PLoS ONE** 2012;7(6):e39242.
+Gabriel Marroig, Diogo Melo e Guilherme Garcia
+Modularity, noise, and natural selection
+**Evolution** 2012 66-5: 1506–1524
 
 `2011`
-Rhiannon White, Sachiko Miyata, *Eliseo Papa*, Eric Spooner, Kleoniki Gounaris, Murray Selkirk, Katerina Artavanis-Tsakonas.
-Characterisation of the Trichinella spiralis deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome interaction partner.
-**PLoS Negl Trop Dis.** 2011 Oct;5(10):e1340.
-
-`2011`
-Katerina Artavanis-Tsakonas, Pia V Kasperkovitz, *Eliseo Papa*, Michael L Cardenas, Nida S Khan, Annemarthe G Van der Veen, Hidde L Ploegh and Jatin M Vyas.
-The Tetraspanin CD82 is Specifically Recruited to Fungal and Bacterial Phagosomes Prior to Acidification.
-**Infection and Immunity** 2011 79(3):1098-106\
-
-`2009`
-Adebola Ogunniyi, Craig Story, *Eliseo Papa*, Eduardo Guillen, J. Christopher Love.
-Screening Individual Hybridomas by Microengraving to Discover Monoclonal Antibodies.
-**Nature Protocols** 2009 4(5):767-82
-
-`2009`
-Jehnna L. Ronan, Craig Story, *Eliseo Papa*, J. Christopher Love.
-Optimization of the surfaces used to capture antibodies from single hybridomas reduces the time required for microengraving.
-**Journal of Immunological Methods** 2009, 340(2):164-9\
-
-`2008`
-Craig Story\*, *Eliseo Papa\* (co-author)*, Chih-Chi Andrew Hu, Jehnna L Ronan, Hidde L Ploegh, J.Christopher Love.
-Profiling Antibody Responses by Multiparametric Analysis of Single B Cells.
-**PNAS** 2008 105(46):17902-7
-
-`2005`
-Hans Fischer, *Eli Papa*, Lichuan Liu, K. Sandy Pang, Warren C. W. Chan.
-Preliminary Results: Exploring the Interactions of Quantum Dots with Whole Blood Components.
-**SPIE Proceedings** 2005 5969,54
-
-`2004`
-Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan.
-Semiconductor quantum dots as contrast agents for whole animal imaging.
-**Trends in Biotechnology** 2004 22:12
+Gabriel Marroig, Diogo Melo, Arthur Porto, Guilherme Garcia e Harley Sebastia
+Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices
+**Evolutionary Biology** 2011 38:225–241
 
 
-### Posters
+### Posters e congressos
 
 `2007`
 Diogo Melo, Vera Henriques
 Order-disorder phase transitions on dissociating model lipid membranes
 *V Brazilian Meeting on Simulational Physics*
+
+`2009`
+__10th International Mammalogical Congress__, Mendoza, Argentina
 
 ## Pesquisa
 
@@ -146,10 +119,26 @@ __Termodinâmica e Física Estatística de sistemas físico-químicos e de inter
 
 - Simulações computacionais de membranas biológicas
 
+## Cursos
+
+`2006`
+__Summer School on Soft Matter Physics__, IF, USP
+
+`2007`
+__Course in Neurobiology__, UNESP, Rio Claro
+- Prof. Michael Hendrick, Prof. Tobias Wang
+
+`2008`
+__Curso em Embriologia de Mamíferos__, ICB, USP
+
+`2008`
+__Complex Systems Summer School__, Santa Fe Institute
+- San Carlos de Bariloche, Argentina
+
 ## Monitorias
 
 `2007-2009`
-__Fisiologia de Membranas__ ICB, USP
+__Fisiologia de Membranas__, ICB, USP
 
 - Curso para graduação em Medicina do Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
@@ -173,7 +162,6 @@ __Introdução a manipulação de dados com a linguagem R__ IO, USP
 
 - Curso na semana temática do instituto oceanográfico da USP
 - Carga horária de 12h
-
 
 
 <!-- ### Footer
