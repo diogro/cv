@@ -61,13 +61,13 @@ Bolsa de Treinamento Técnico pela FAPESP
 ## Publicações
 
 `2012`
-Gabriel Marroig, **Diogo Melo*** e Guilherme Garcia
+Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
 
 - [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 - **Evolution** 2012 66-5: 1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo***, Arthur Porto, Guilherme Garcia e Harley Sebastião.
+Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião.
 
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - **Evolutionary Biology** 2011 38:225–241
