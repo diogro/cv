@@ -12,15 +12,15 @@ Biologo Computacional, Data Scientist e Programador
 
 ### Especialidades
 
-Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística bayesiana.
+Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística Bayesiana.
 
 ### Interesses de pesquisa
 
 
 
-## Languages
+## Línguas
 
-- Portugues: Fluente
+- Português: Fluente
 - Inglês: Fluente
 
 
@@ -91,7 +91,7 @@ __Laboratório de Evolução de Mamíferos__, IB, USP
 
 - Simulações computacionais de populações biológicas
 - Técnicas robustas para quantificação de padrões de covariância
-- Estatítica multivariada para análise de dados morfológicos
+- Estatística multivariada para análise de dados morfológicos
 - Implementações eficientes de técnicas de morfometria
 
 
