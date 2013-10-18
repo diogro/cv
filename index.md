@@ -125,7 +125,7 @@ __Fisiologia de Membranas__, ICB, USP
 - Curso para graduação em Medicina do Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
-`2009, 2012-2013`
+`2009, 2012-13`
 __Biologia Evolutiva__ IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
