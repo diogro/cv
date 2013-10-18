@@ -11,15 +11,15 @@ Biologo Computacional, Data Scientist e Programador
 | +55 11 98115 4876
 </div>
 
-## Especialidades
+### Especialidades
 
 Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística Bayesiana.
 
-## Interesses de pesquisa
+### Interesses de pesquisa
 
 
 
-## Línguas
+### Línguas
 
 - Português: Fluente
 - Inglês: Fluente
