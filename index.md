@@ -27,21 +27,21 @@ Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, s
 
 ## Formação Acadêmica
 
-`2003-2007`
+`2003-07`
 __Curso de Ciências Moleculares__
 
 - Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
 - Universidade de São Paulo
 
 
-`2007-2009`
+`2007-09`
 __Curso de Ciências Biológicas__
 
 - Bacharel com ênfase em Biologia Evolutiva
 - Universidade de São Paulo
 
 
-`2010-2012`
+`2010-12`
 __Programa de Pós Graduação em Biologia e Genética__
 
 - Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
@@ -49,10 +49,10 @@ __Programa de Pós Graduação em Biologia e Genética__
 
 ## Bolsas
 
-`2005-2007`
+`2005-07`
 Bolsa de iniciação científica pelo CNPq
 
-`2010-2012`
+`2010-12`
 Bolsa de Mestrado pela FAPESP
 
 `2013`
@@ -96,7 +96,7 @@ __Laboratório de Evolução de Mamíferos__, IB, USP
 - Implementações eficientes de técnicas de morfometria
 
 
-`2005-2007`
+`2005-07`
 __Termodinâmica e Física Estatística de sistemas físico-químicos e de interesse biológico__, IF, USP
 
 - Simulações computacionais de membranas biológicas
@@ -119,27 +119,27 @@ __Complex Systems Summer School__, Santa Fe Institute
 
 ## Monitorias
 
-`2007-2009`
+`2007-09`
 __Fisiologia de Membranas__, ICB, USP
 
 - Curso para graduação em Medicina do Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
-__Biologia Evolutiva__ IB, USP
+__Biologia Evolutiva__, IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2011`
-__Processos Evolutivos__ IB, USP
+__Processos Evolutivos__, IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-2013`
-__Uso da linguagem R para análise de dados ecológicos__ IB, USP
+`2012-13`
+__Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
 - Departamento de Ecologia
@@ -147,7 +147,7 @@ __Uso da linguagem R para análise de dados ecológicos__ IB, USP
 ##Cursos Ministrados
 
 `2012`
-__Introdução a manipulação de dados com a linguagem R__ IO, USP
+__Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 - Curso na semana temática do instituto oceanográfico da USP
 - Carga horária de 12h
