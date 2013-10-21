@@ -17,7 +17,7 @@ Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, s
 
 ### Interesses de pesquisa
 
-
+Processos evolutivos e sua interação com modularidade, estatística computacional, desenvolvimento e evolução.
 
 ### Línguas
 
