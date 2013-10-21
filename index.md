@@ -108,14 +108,16 @@ __Summer School on Soft Matter Physics__, IF, USP
 
 `2007`
 __Course in Neurobiology__, UNESP, Rio Claro
+
 - Prof. Michael Hendrick, Prof. Tobias Wang
 
 `2008`
 __Curso em Embriologia de Mamíferos__, ICB, USP
 
 `2008`
-__Complex Systems Summer School__, Santa Fe Institute
-- San Carlos de Bariloche, Argentina
+__Complex Systems Summer School__, San Carlos de Bariloche, Argentina
+
+- Santa Fe Institute
 
 ## Monitorias
 
