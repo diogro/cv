@@ -42,15 +42,9 @@ __Curso de Ciências Biológicas__
 
 
 `2010-12`
-__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+__Programa de Pós Graduação em Biologia e Genética__
 
 - Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
-- Universidade de São Paulo
-
-`2014-atual`
-__Programa de Pós Graduação em Genética e Biologia Evolutiva__
-
-- Doutorando em Ciências com projeto "Estimativas diretas de parâmetros evolutivos via análise de QTL"
 - Universidade de São Paulo
 
 ## Bolsas
@@ -61,11 +55,8 @@ Bolsa de iniciação científica pelo CNPq
 `2010-12`
 Bolsa de Mestrado pela FAPESP
 
-`2013-14`
+`2013`
 Bolsa de Treinamento Técnico pela FAPESP
-
-Desenvolvimento de programas para análise de dados evolutivos e
-simulações de populações biológicas.
 
 
 ## Publicações
@@ -153,13 +144,6 @@ __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
 - Departamento de Ecologia
 
-`2014`
-__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
-
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
-- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
-
 ##Cursos Ministrados
 
 `2012`
@@ -171,6 +155,6 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 <!-- ### Footer
 
-Última Atualização: Junho de 2014 -->
+Última Atualização: Outubro 2013 -->
 
 
