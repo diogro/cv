@@ -142,14 +142,14 @@ __Biologia Evolutiva__, IB, USP
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
-`2011`
+`2011, 2014`
 __Processos Evolutivos__, IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-13`
+`2012-14`
 __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
