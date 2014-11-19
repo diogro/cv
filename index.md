@@ -13,11 +13,11 @@ title: Currículo Vitae Diogo Melo
 
 ### Especialidades
 
-Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística Bayesiana.
+Genética quantitativa, teoria evolutiva, análise de dados em larga escala, simulações baseadas em agentes, estatística e modelagem Bayesiana.
 
 ### Interesses de pesquisa
 
-Processos evolutivos e sua interação com modularidade, estatística computacional, desenvolvimento e evolução.
+Processos evolutivos e sua interação com modularidade, estatística e desenvolvimento.
 
 ### Línguas
 
@@ -162,6 +162,12 @@ __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 - Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
+`2014`
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
 ##Cursos Ministrados
 
 `2012`
@@ -173,6 +179,6 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 <!-- ### Footer
 
-Última Atualização: Junho de 2014 -->
+Última Atualização: Novembro de 2014 -->
 
 
