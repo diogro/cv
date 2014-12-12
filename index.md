@@ -74,7 +74,7 @@ simulações de populações biológicas.
 **Diogo Melo**, Gabriel Marroig
 
 - Directional Selection can Drive the Evolution of Modularity in Complex Traits
-- Proceedings of the National Academy of Sciences of the United States of America, manuscrito aceito para publicação
+- **Proceedings of the National Academy of Sciences of the United States of America**, manuscrito aceito para publicação
 
 `2012`
 Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
