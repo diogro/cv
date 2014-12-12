@@ -82,6 +82,10 @@ Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebasti
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - **Evolutionary Biology** 2011 38:225–241
 
+`2015` 
+**Diogo Melo**, Gabriel Marroig.
+- Directional Selection can Drive the Evolution of Modularity in Complex Traits.
+- Proceedings of the National Academy of Sciences of the United States of America, manuscrito aceito para publicação.
 
 ## Posters e congressos
 
