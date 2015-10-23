@@ -13,11 +13,11 @@ title: Currículo Vitae Diogo Melo
 
 ### Especialidades
 
-Genética quantitativa, teoria evolutiva, análise de bancos de dados grandes, simulações baseadas em agentes, implementações customizadas, estatística Bayesiana.
+Genética quantitativa, teoria evolutiva, análise de dados em larga escala, simulações baseadas em agentes, estatística e modelagem Bayesiana.
 
 ### Interesses de pesquisa
 
-
+Processos evolutivos e sua interação com modularidade, estatística e desenvolvimento.
 
 ### Línguas
 
@@ -42,9 +42,15 @@ __Curso de Ciências Biológicas__
 
 
 `2010-12`
-__Programa de Pós Graduação em Biologia e Genética__
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
 
 - Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
+- Universidade de São Paulo
+
+`2014-atual`
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+
+- Doutorando em Ciências com projeto "Estimativas diretas de parâmetros evolutivos via análise de QTL"
 - Universidade de São Paulo
 
 ## Bolsas
@@ -55,11 +61,32 @@ Bolsa de iniciação científica pelo CNPq
 `2010-12`
 Bolsa de Mestrado pela FAPESP
 
-`2013`
+`2013-14`
 Bolsa de Treinamento Técnico pela FAPESP
+
+Desenvolvimento de programas para análise de dados evolutivos e
+simulações de populações biológicas.
 
 
 ## Publicações
+
+`2015`
+**Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+
+- [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
+- **F1000 Research**, 2015 4:925
+
+`2015`
+Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Melo**, Daniel Rozen, Christopher R.L. Thompson
+
+- [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
+- **Current Biology**, 2015 25(8) p1086–1090
+
+`2015`
+**Diogo Melo**, Gabriel Marroig
+
+- [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
+- **Proceedings of the National Academy of Sciences of the United States of America**, 2015 112 (2) 470-475
 
 `2012`
 Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
@@ -68,7 +95,7 @@ Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
 - **Evolution** 2012 66-5: 1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião.
+Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião
 
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - **Evolutionary Biology** 2011 38:225–241
@@ -84,6 +111,18 @@ Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebasti
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
+
+`2015`
+**Diogo Melo**, Gabriel Marroig
+
+- The Effect of Directional Selection on Pleiotropy and Modularity.
+- **Evolution 2015, Guarujá - Brazil**
+
+`2015`
+Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+
+- Changes in multivariate covariance structures under directional selection
+- **Evolution 2015, Guarujá - Brazil**
 
 ## Pesquisa
 
@@ -108,14 +147,16 @@ __Summer School on Soft Matter Physics__, IF, USP
 
 `2007`
 __Course in Neurobiology__, UNESP, Rio Claro
+
 - Prof. Michael Hendrick, Prof. Tobias Wang
 
 `2008`
 __Curso em Embriologia de Mamíferos__, ICB, USP
 
 `2008`
-__Complex Systems Summer School__, Santa Fe Institute
-- San Carlos de Bariloche, Argentina
+__Complex Systems Summer School__, San Carlos de Bariloche, Argentina
+
+- Santa Fe Institute
 
 ## Monitorias
 
@@ -131,17 +172,36 @@ __Biologia Evolutiva__, IB, USP
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
-`2011`
+`2011, 2014`
 __Processos Evolutivos__, IB, USP
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-13`
+`2012-14`
 __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
+- Departamento de Ecologia
+
+`2014`
+__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2014`
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2015`
+__Curso de Campo "Ecologia da Mata Atlântica"__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio e Adriana Martini
 - Departamento de Ecologia
 
 ##Cursos Ministrados
@@ -155,6 +215,6 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 <!-- ### Footer
 
-Última Atualização: Outubro 2013 -->
+Última Atualização: Outubro de 2015 -->
 
 

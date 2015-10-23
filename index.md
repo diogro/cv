@@ -71,10 +71,22 @@ simulações de populações biológicas.
 ## Publicações
 
 `2015`
+**Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+
+- [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
+- **F1000 Research**, 2015 4:925
+
+`2015`
+Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Melo**, Daniel Rozen, Christopher R.L. Thompson
+
+- [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
+- **Current Biology**, 2015 25(8) p1086–1090
+
+`2015`
 **Diogo Melo**, Gabriel Marroig
 
-- [Directional Selection can Drive the Evolution of Modularity in Complex Traits](https://www.dropbox.com/s/37g0obcjal4h891/author_review.pdf)
-- **Proceedings of the National Academy of Sciences of the United States of America**, manuscrito aceito para publicação
+- [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
+- **Proceedings of the National Academy of Sciences of the United States of America**, 2015 112 (2) 470-475
 
 `2012`
 Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
@@ -99,6 +111,18 @@ Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebasti
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
+
+`2015`
+**Diogo Melo**, Gabriel Marroig
+
+- The Effect of Directional Selection on Pleiotropy and Modularity.
+- **Evolution 2015, Guarujá - Brazil**
+
+`2015`
+Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+
+- Changes in multivariate covariance structures under directional selection
+- **Evolution 2015, Guarujá - Brazil**
 
 ## Pesquisa
 
@@ -174,6 +198,12 @@ __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
+`2015`
+__Curso de Campo "Ecologia da Mata Atlântica"__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio e Adriana Martini
+- Departamento de Ecologia
+
 ##Cursos Ministrados
 
 `2012`
@@ -185,6 +215,6 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 <!-- ### Footer
 
-Última Atualização: Novembro de 2014 -->
+Última Atualização: Outubro de 2015 -->
 
 
