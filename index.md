@@ -6,6 +6,7 @@ title: Currículo Vitae Diogo Melo
 
 <div id="webaddress">
 | <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+| <a href="http://www.diogromelo.com">webpage</a>
 | <a href="http://github.com/diogro">github/diogro</a>
 | +55 11 98115 4876
 |
@@ -157,6 +158,12 @@ __Curso em Embriologia de Mamíferos__, ICB, USP
 __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 
 - Santa Fe Institute
+
+`2015`
+_Introduction to Network Tools in Biosciences - 2nd Edition___, Els Hostalets de Pierola, Spain
+
+- Transmiting Science
+
 
 ## Monitorias
 
