@@ -68,6 +68,9 @@ Bolsa de Treinamento Técnico pela FAPESP
 Desenvolvimento de programas para análise de dados evolutivos e
 simulações de populações biológicas.
 
+`2015-atual`
+Bolsa de Doutorado pela FAPESP
+
 
 ## Publicações
 
