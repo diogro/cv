@@ -160,7 +160,7 @@ __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 - Santa Fe Institute
 
 `2015`
-_Introduction to Network Tools in Biosciences - 2nd Edition___, Els Hostalets de Pierola, Spain
+__Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
 
 - Transmiting Science
 
