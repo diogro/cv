@@ -18,7 +18,7 @@ Genética quantitativa, teoria evolutiva, análise de dados em larga escala, sim
 
 ### Interesses de pesquisa
 
-Processos evolutivos e sua interação com modularidade, estatística e desenvolvimento.
+Processos evolutivos e sua interação com modularidade, efeitos genéticos e desenvolvimento.
 
 ### Línguas
 
@@ -40,7 +40,6 @@ __Curso de Ciências Biológicas__
 
 - Bacharel com ênfase em Biologia Evolutiva
 - Universidade de São Paulo
-
 
 `2010-12`
 __Programa de Pós Graduação em Genética e Biologia Evolutiva__
@@ -73,6 +72,19 @@ Bolsa de Doutorado pela FAPESP
 
 
 ## Publicações
+
+`2015`
+Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
+
+- Modularity and Integration.
+- Encyclopedia of Evolutionary Biology, in press.
+
+`2015`
+Alex Hubbe, **Diogo Melo**, Gabriel Marroig
+
+- A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
+- Paleobiology, in press.
+
 
 `2015`
 **Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
@@ -189,11 +201,18 @@ __Processos Evolutivos__, IB, USP
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-14`
+`2012-15`
 __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
 - Departamento de Ecologia
+
+`2013`
+__II Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
@@ -205,13 +224,13 @@ __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 `2014`
 __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e João Luís Ferreira Batista
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
-__Curso de Campo "Ecologia da Mata Atlântica"__, IB, USP
+__Curso de Campo ``Ecologia da Mata Atlântica''__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio e Adriana Martini
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
 ##Cursos Ministrados
