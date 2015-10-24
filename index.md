@@ -77,13 +77,13 @@ Bolsa de Doutorado pela FAPESP
 Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
 
 - Modularity and Integration.
-- Encyclopedia of Evolutionary Biology, in press.
+- **Encyclopedia of Evolutionary Biology**, in press.
 
 `2015`
 Alex Hubbe, **Diogo Melo**, Gabriel Marroig
 
 - A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
-- Paleobiology, in press.
+- **Paleobiology**, in press.
 
 
 `2015`
