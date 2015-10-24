@@ -102,7 +102,7 @@ Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Mel
 **Diogo Melo**, Gabriel Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- **Proceedings of the National Academy of Sciences of the United States of America**, 2015 112 (2) 470-475
+- **Proceedings of the National Academy of Sciences**, 2015 112 (2) 470-475
 
 `2012`
 Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
