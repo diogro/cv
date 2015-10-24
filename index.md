@@ -228,7 +228,7 @@ __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
-__Curso de Campo ``Ecologia da Mata Atlântica''__, IB, USP
+__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
