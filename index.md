@@ -207,13 +207,6 @@ __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
 - Departamento de Ecologia
 
-`2013`
-__II Southern-Summer School on Mathematical Biology__, ICTP, Unesp
-
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
-- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
-
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
@@ -226,6 +219,14 @@ __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2015`
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
 
 `2015`
 __Curso de Campo Ecologia da Mata Atlântica__, IB, USP
