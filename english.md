@@ -147,7 +147,7 @@ __Course in Neurobiology__, UNESP, Rio Claro
 - Prof. Michael Hendrick, Prof. Tobias Wang
 
 `2008`
-__Mammal Embryology_, ICB, USP
+__Mammal Embryology__, ICB, USP
 
 `2008`
 __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
@@ -163,63 +163,64 @@ __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de
 ## Teaching Assistant
 
 `2007-09`
-__Fisiologia de Membranas__, ICB, USP
+__Membrane Physiology__, ICB, USP
 
-- Curso para graduação em Medicina do Prof. Antônio Cassola
+
+- Undergraduate course for medicine students - Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
-__Biologia Evolutiva__, IB, USP
+__Evolutionary Biology__, IB, USP
 
-- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2011, 2014`
-__Processos Evolutivos__, IB, USP
+__Evolutionary Processes__, IB, USP
 
-- Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
-- Programa de aperfeiçoamento de ensino (PAE)
+- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-15`
-__Uso da linguagem R para análise de dados ecológicos__, IB, USP
+__Use of the R programing language for data analysis in ecology__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
+- Graduate course for biology students - Profs. Paulo Inácio Prado and Alexandre Adalardo
 - Departamento de Ecologia
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course in applied mathematics in biology
+- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
-__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+__Statistical modeling for ecology and natural resources__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Graduate course for biology students - Profs. Paulo Inácio Prado and João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course in applied mathematics in biology
+- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
-__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
+__Field biology course in the Atlantic Forest__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+- Graduate course in ecology and scientific writing - Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
-##Cursos Ministrados
+
+## Teaching
 
 `2012`
-__Introdução a manipulação de dados com a linguagem R__, IO, USP
+__Introduction to data manipulation in the R programming language__, IO, USP
 
-- Curso na semana temática do instituto oceanográfico da USP
-- Carga horária de 12h
+- Short course at the Instituto Oceanográfico - USP
+- 12h work load
 
 
 <!-- ### Footer
