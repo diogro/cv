@@ -213,6 +213,13 @@ __Field biology course in the Atlantic Forest__, IB, USP
 - Graduate course in ecology and scientific writing - Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
+`2016`
+__V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Graduate course in applied mathematics in biology
+- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
 
 ## Teaching
 
