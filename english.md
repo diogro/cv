@@ -6,69 +6,65 @@ title: Currículo Vitae Diogo Melo
 
 <div id="webaddress">
 | <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+| <a href="http://www.diogromelo.com">webpage</a>
 | <a href="http://github.com/diogro">github/diogro</a>
 | +55 11 98115 4876
 |
 </div>
 
-### Especialidades
+### Skills
 
-Genética quantitativa, teoria evolutiva, análise de dados em larga escala, simulações baseadas em agentes, estatística e modelagem Bayesiana.
+Quantitative genetics,  evolutionary theory, data analysis, agent based modeling, Bayesian modeling and statistics.
 
-### Interesses de pesquisa
+### Research interest
 
-Processos evolutivos e sua interação com modularidade, estatística e desenvolvimento.
+Evolutionary processes and their interaction with modularity, genetics and development.
 
-### Línguas
+### Languages
 
-- Português: Fluente
-- Inglês: Fluente
+- Portuguese: Fluent
+- English: Fluent
 
 
-## Formação Acadêmica
+## Education
 
 `2003-07`
-__Curso de Ciências Moleculares__
+__Molecular Sciences Course__
 
-- Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
+- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics.
 - Universidade de São Paulo
 
 
 `2007-09`
-__Curso de Ciências Biológicas__
+__Biological Sciences__
 
-- Bacharel com ênfase em Biologia Evolutiva
+ - Bachelor's degree with emphasis in evolutionary biology.
 - Universidade de São Paulo
-
 
 `2010-12`
-__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+__Masters Degree in Evolutionary Biology__
 
-- Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
 - Universidade de São Paulo
 
-`2014-atual`
-__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+`2014-current`
+__PhD Candidate in Evolutionary Biology__
 
-- Doutorando em Ciências com projeto "Estimativas diretas de parâmetros evolutivos via análise de QTL"
 - Universidade de São Paulo
 
-## Bolsas
+## Articles
 
-`2005-07`
-Bolsa de iniciação científica pelo CNPq
+`2015`
+Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
 
-`2010-12`
-Bolsa de Mestrado pela FAPESP
+- Modularity and Integration.
+- **Encyclopedia of Evolutionary Biology**, in press.
 
-`2013-14`
-Bolsa de Treinamento Técnico pela FAPESP
+`2015`
+Alex Hubbe, **Diogo Melo**, Gabriel Marroig
 
-Desenvolvimento de programas para análise de dados evolutivos e
-simulações de populações biológicas.
+- A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
+- **Paleobiology**, in press.
 
-
-## Publicações
 
 `2015`
 **Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
@@ -86,22 +82,22 @@ Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Mel
 **Diogo Melo**, Gabriel Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- **Proceedings of the National Academy of Sciences of the United States of America**, 2015 112 (2) 470-475
+- **Proceedings of the National Academy of Sciences**, 2015 112 (2) 470-475
 
 `2012`
-Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
+Gabriel Marroig, **Diogo Melo**, Guilherme Garcia
 
 - [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 - **Evolution** 2012 66-5: 1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião
+Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia, Harley Sebastião
 
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - **Evolutionary Biology** 2011 38:225–241
 
 
-## Posters e congressos
+## Conferences and meetings
 
 `2007`
 **Diogo Melo**, Vera Henriques
@@ -124,23 +120,23 @@ Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 - Changes in multivariate covariance structures under directional selection
 - **Evolution 2015, Guarujá - Brazil**
 
-## Pesquisa
+## Research
 
-`2008-atual`
-__Laboratório de Evolução de Mamíferos__, IB, USP
+`2008-current`
+__Mammal Evolution Laboratory__, IB, USP
 
-- Simulações computacionais de populações biológicas
-- Técnicas robustas para quantificação de padrões de covariância
-- Estatística multivariada para análise de dados morfológicos
-- Implementações eficientes de técnicas de morfometria
-
+- Computer simulations of biological populations
+- Robust estimation of covariance patterns
+- Multivariate statistics for morphological data
+- Efficient computer implementation of morphometric techniques
 
 `2005-07`
-__Termodinâmica e Física Estatística de sistemas físico-químicos e de interesse biológico__, IF, USP
 
-- Simulações computacionais de membranas biológicas
+__Thermodynamics and statistical physics of physical systems of biological interest__, IF, USP
 
-## Cursos
+- Computer simulations of biological membranes
+
+## Courses
 
 `2006`
 __Summer School on Soft Matter Physics__, IF, USP
@@ -151,14 +147,20 @@ __Course in Neurobiology__, UNESP, Rio Claro
 - Prof. Michael Hendrick, Prof. Tobias Wang
 
 `2008`
-__Curso em Embriologia de Mamíferos__, ICB, USP
+__Mammal Embryology_, ICB, USP
 
 `2008`
 __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 
 - Santa Fe Institute
 
-## Monitorias
+`2015`
+__Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
+
+- Transmitting Science
+
+
+## Teaching Assistant
 
 `2007-09`
 __Fisiologia de Membranas__, ICB, USP
@@ -179,10 +181,10 @@ __Processos Evolutivos__, IB, USP
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-14`
+`2012-15`
 __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e Alexandre Adalardo
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
 - Departamento de Ecologia
 
 `2014`
@@ -195,13 +197,20 @@ __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 `2014`
 __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio e João Luís Ferreira Batista
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
-__Curso de Campo "Ecologia da Mata Atlântica"__, IB, USP
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio e Adriana Martini
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2015`
+__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
 ##Cursos Ministrados
@@ -215,6 +224,6 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 
 <!-- ### Footer
 
-Última Atualização: Outubro de 2015 -->
+Última Atualização: February 2016 -->
 
 
