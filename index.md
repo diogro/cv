@@ -73,13 +73,13 @@ Bolsa de Doutorado pela FAPESP
 
 ## Publicações
 
-`2015`
+`2016`
 Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
 
 - Modularity and Integration.
 - **Encyclopedia of Evolutionary Biology**, in press.
 
-`2015`
+`2016`
 Alex Hubbe, **Diogo Melo**, Gabriel Marroig
 
 - A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
@@ -233,6 +233,7 @@ __Curso de Campo Ecologia da Mata Atlântica__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
+
 
 ##Cursos Ministrados
 
