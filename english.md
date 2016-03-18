@@ -53,13 +53,13 @@ __PhD Candidate in Evolutionary Biology__
 
 ## Articles
 
-`2015`
+`2016`
 Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
 
 - Modularity and Integration.
 - **Encyclopedia of Evolutionary Biology**, in press.
 
-`2015`
+`2016`
 Alex Hubbe, **Diogo Melo**, Gabriel Marroig
 
 - A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
@@ -181,7 +181,7 @@ __Evolutionary Processes__, IB, USP
 - Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-15`
+`2012-16`
 __Use of the R programing language for data analysis in ecology__, IB, USP
 
 - Graduate course for biology students - Profs. Paulo Inácio Prado and Alexandre Adalardo
