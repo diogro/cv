@@ -74,90 +74,90 @@ Bolsa de Doutorado pela FAPESP
 ## Publicações
 
 `2016`
-**Diogo Melo**, A. Porto, J. M. Cheverud, G. Marroig 
+__Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
 - [Modularity: Genes, Development, and Evolution.](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
-- **Annual Review of Ecology, Evolution, and Systematics**, 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
+- __Annual Review of Ecology, Evolution, and Systematics__, 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Costa T.M., Hebets E.A., **Melo D.**, Willemart R.H.
+Costa T.M., Hebets E.A., __Melo D.__, Willemart R.H.
 
 - [Costly learning: preference for familiar food persists despite negative impact on survival.](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
-- **Biology Letters**. 20160256. doi:10.1098/rsbl.2016.0256
+- __Biology Letters__. 20160256. doi:10.1098/rsbl.2016.0256
 
 `2016`
-Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
+Ana Paula Assis, Barbara Costa, Daniela Rossoni, __Diogo Melo__, Gabriel Marroig
 
 - [Modularity and Integration.](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
-- **Encyclopedia of Evolutionary Biology**, vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+- __Encyclopedia of Evolutionary Biology__, vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 `2016`
-Alex Hubbe, **Diogo Melo**, Gabriel Marroig
+Alex Hubbe, __Diogo Melo__, Gabriel Marroig
 
 - [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
-- **Paleobiology**, Paleobiology, 42 (3), 465-488 doi:10.1017/pab.2015.49
+- __Paleobiology__, Paleobiology, 42 (3), 465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-**Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+__Diogo Melo__, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
-- **F1000 Research**, 2015 4:925
+- __F1000 Research__, 2015 4:925
 
 `2015`
-Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Melo**, Daniel Rozen, Christopher R.L. Thompson
+Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, __Diogo Melo__, Daniel Rozen, Christopher R.L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
-- **Current Biology**, 2015 25(8) p1086–1090
+- __Current Biology__, 2015 25(8) p1086–1090
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, Gabriel Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- **Proceedings of the National Academy of Sciences**, 2015 112 (2) 470-475
+- __Proceedings of the National Academy of Sciences__, 2015 112 (2) 470-475
 
 `2012`
-Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
+Gabriel Marroig, __Diogo Melo__ e Guilherme Garcia
 
 - [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
-- **Evolution** 2012 66-5: 1506–1524
+- __Evolution__ 2012 66-5: 1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião
+Gabriel Marroig, __Diogo Melo__, Arthur Porto, Guilherme Garcia e Harley Sebastião
 
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
-- **Evolutionary Biology** 2011 38:225–241
+- __Evolutionary Biology__ 2011 38:225–241
 
 
 ## Posters e congressos
 
 `2007`
-**Diogo Melo**, Vera Henriques
+__Diogo Melo__, Vera Henriques
 
 - Order-disorder phase transitions on dissociating model lipid membranes
-- **V Brazilian Meeting on Simulational Physics**
+- __V Brazilian Meeting on Simulational Physics__
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, Gabriel Marroig
 
 - The Effect of Directional Selection on Pleiotropy and Modularity.
-- **Evolution 2015, Guarujá - Brazil**
+- __Evolution 2015, Guarujá - Brazil__
 
 `2015`
-Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+Anna Penna, __Diogo Melo__, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 
 - Changes in multivariate covariance structures under directional selection
-- **Evolution 2015, Guarujá - Brazil**
+- __Evolution 2015, Guarujá - Brazil__
 
 `2016`
-**Diogo Melo**
+__Diogo Melo__
 
 - The Evolution of Pleiotropy and Modularity
 - Invited speaker 
-- **5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia**
+- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
 
 ## Pesquisa
