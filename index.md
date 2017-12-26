@@ -74,7 +74,7 @@ Bolsa de Doutorado pela FAPESP
 ## Publicações
 
 `2017` 
-Penna A., __Diogo Melo__, S .Bernardi, M. I. Oyarzabal, G. Marroig
+Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
 
 - [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
 - __Evolution__ 2017 71-10: 2370–2380. doi:10.1111/evo.13304
@@ -84,31 +84,31 @@ Penna A., __Diogo Melo__, S .Bernardi, M. I. Oyarzabal, G. Marroig
 Imenez Silva P.H., __Diogo Melo__, P.O.R. de Mendonça 
 
 - [Insights from Systems Biology in Physiological Studies: Learning from Context.](https://www.karger.com/Article/FullText/478648)
-- __Cell Physiology and Biochemestry__ 42(3):939-951. doi.org/10.1159/000478648
+- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi.org/10.1159/000478648
 
 `2016`
 __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
 - [Modularity: Genes, Development, and Evolution.](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
-- __Annual Review of Ecology, Evolution, and Systematics__, 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
+- __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
 Costa T.M., E.A. Hebets, __Diogo Melo__, R.H Willemart.
 
 - [Costly learning: preference for familiar food persists despite negative impact on survival.](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
-- __Biology Letters__. 20160256. doi:10.1098/rsbl.2016.0256
+- __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
 
 `2016`
 Assis A. P., B. Costa, D. Rossoni , __Diogo Melo__, G. Marroig
 
 - [Modularity and Integration.](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
-- __Encyclopedia of Evolutionary Biology__, vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 `2016`
 Hubbe A., __Diogo Melo__, G. Marroig
 
 - [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
-- __Paleobiology__, Paleobiology, 42 (3), 465-488 doi:10.1017/pab.2015.49
+- __Paleobiology__, 2016 42 (3), 465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
