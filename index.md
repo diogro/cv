@@ -18,7 +18,7 @@ Genética quantitativa, teoria evolutiva, análise de dados em larga escala, sim
 
 ### Interesses de pesquisa
 
-Processos evolutivos e sua interação com modularidade, efeitos genéticos e desenvolvimento.
+Processos evolutivos e sua interação com modularidade, arquitetura genética e desenvolvimento.
 
 ### Línguas
 
@@ -73,6 +73,19 @@ Bolsa de Doutorado pela FAPESP
 
 ## Publicações
 
+`2017` 
+Penna A., __Diogo Melo__, S .Bernardi, M. I. Oyarzabal, G. Marroig
+
+- [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+- __Evolution__ 2017 71-10: 2370–2380. doi:10.1111/evo.13304
+
+
+` 2017` 
+Imenez Silva P.H., __Diogo Melo__, P.O.R. de Mendonça 
+
+- [Insights from Systems Biology in Physiological Studies: Learning from Context.](https://www.karger.com/Article/FullText/478648)
+- __Cell Physiology and Biochemestry__ 42(3):939-951. doi.org/10.1159/000478648
+
 `2016`
 __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
@@ -80,50 +93,50 @@ __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig
 - __Annual Review of Ecology, Evolution, and Systematics__, 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Costa T.M., Hebets E.A., __Melo D.__, Willemart R.H.
+Costa T.M., E.A. Hebets, __Diogo Melo__, R.H Willemart.
 
 - [Costly learning: preference for familiar food persists despite negative impact on survival.](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
 - __Biology Letters__. 20160256. doi:10.1098/rsbl.2016.0256
 
 `2016`
-Ana Paula Assis, Barbara Costa, Daniela Rossoni, __Diogo Melo__, Gabriel Marroig
+Assis A. P., B. Costa, D. Rossoni , __Diogo Melo__, G. Marroig
 
 - [Modularity and Integration.](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
 - __Encyclopedia of Evolutionary Biology__, vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 `2016`
-Alex Hubbe, __Diogo Melo__, Gabriel Marroig
+Hubbe A., __Diogo Melo__, G. Marroig
 
 - [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
 - __Paleobiology__, Paleobiology, 42 (3), 465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-__Diogo Melo__, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+__Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
 - __F1000 Research__, 2015 4:925
 
 `2015`
-Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, __Diogo Melo__, Daniel Rozen, Christopher R.L. Thompson
+Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R.L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
 - __Current Biology__, 2015 25(8) p1086–1090
 
 `2015`
-__Diogo Melo__, Gabriel Marroig
+__Diogo Melo__, G. Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
 - __Proceedings of the National Academy of Sciences__, 2015 112 (2) 470-475
 
 `2012`
-Gabriel Marroig, __Diogo Melo__ e Guilherme Garcia
+Marroig G., __Diogo Melo__, G. Garcia
 
 - [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 - __Evolution__ 2012 66-5: 1506–1524
 
 `2011`
-Gabriel Marroig, __Diogo Melo__, Arthur Porto, Guilherme Garcia e Harley Sebastião
+Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
 - [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - __Evolutionary Biology__ 2011 38:225–241
@@ -282,7 +295,12 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 - Curso na semana temática do instituto oceanográfico da USP
 - Carga horária de 12h
 
+`2017`
+__Modularidade: conectando padrões e processos em evolução multivariada__, FFCLRP, USP
+
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
+- Carga horária de 30h
 
 <!-- ### Footer
 
-Última Atualização: Fevereiro de 2017 -->
+Última Atualização: Dezembro de 2017 -->
