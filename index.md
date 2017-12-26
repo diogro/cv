@@ -83,31 +83,31 @@ Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
 ` 2017` 
 Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
 
-- [Insights from Systems Biology in Physiological Studies: Learning from Context.](https://www.karger.com/Article/FullText/478648)
+- [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
 - __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
 
 `2016`
 __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
-- [Modularity: Genes, Development, and Evolution.](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+- [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
 - __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart.
+Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
 
-- [Costly learning: preference for familiar food persists despite negative impact on survival.](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+- [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
 - __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
 
 `2016`
 Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 
-- [Modularity and Integration.](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 `2016`
 Hubbe A., __Diogo Melo__, G. Marroig
 
-- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
 - __Paleobiology__, 2016 42 (3), 465-488 doi:10.1017/pab.2015.49
 
 
@@ -132,13 +132,13 @@ __Diogo Melo__, G. Marroig
 `2012`
 Marroig G., __Diogo Melo__, G. Garcia
 
-- [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+- [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 - __Evolution__, 2012 66-5: 1506–1524
 
 `2011`
 Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
-- [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+- [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - __Evolutionary Biology__, 2011 38:225–241
 
 
