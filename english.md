@@ -22,36 +22,34 @@ title: Curriculum Vitae Diogo Melo
 ## Education
 
 `2014-current`
-__Genetics and Evolutionary Biology Graduate Program at the University of São Paulo__
+__Genetics and Evolutionary Biology PhD Program__
 
 - Ongoing science PhD with project "Direct estimates of evolutionary parameters using QTL analysis"
 - Advisor: Gabriel Marroig
 - In collaboration with Jason Wolf at the University of Bath
-- Universidade de São Paulo
+- University of São Paulo
 
 `2010-12`
-__Genetics and Evolutionary Biology Graduate Program at the University of São Paulo__
+__Genetics and Evolutionary Biology Masters Program__
 
-- Masters in science entitle "Morphological Evolution and Modularity"
-- Universidade de São Paulo
+- Masters in science entitled "Morphological Evolution and Modularity"
+- Advisor: Gabriel Marroig
+- University of São Paulo
 
 
 `2007-09`
 __Biological Sciences Undergrad program at the University of São Paulo__
 
 - Bachelors degree in Biology with an emphasis in Evolutionary Biology
-- Universidade de São Paulo
+- University of São Paulo
 
 
 `2003-07`
-__Curso de Ciências Moleculares__
+__Molecular Sciences Course__
 
-- Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
-- Universidade de São Paulo
-
-
-
-
+- Bachelors degree with an emphasis in biology, applied math and statistical mechanics
+- Advisor: Vera Bohomoletz Henriques
+- University of São Paulo
 
 
 ## Bolsas
@@ -72,7 +70,7 @@ simulações de populações biológicas.
 Bolsa de Doutorado pela FAPESP
 
 
-## Publicações
+## Publications
 
 `2017` 
 Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
@@ -143,7 +141,7 @@ Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 - __Evolutionary Biology__, 2011 38:225–241
 
 
-## Posters e congressos
+## Conferences and presentations
 
 `2007`
 __Diogo Melo__, Vera Henriques
@@ -174,9 +172,9 @@ __Diogo Melo__
 - __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
 
-## Pesquisa
+## Research
 
-`2008-atual`
+`2008-current`
 __Laboratório de Evolução de Mamíferos__, IB, USP
 
 - Simulações computacionais de populações biológicas
@@ -190,7 +188,7 @@ __Termodinâmica e Física Estatística de sistemas físico-químicos e de inter
 
 - Simulações computacionais de membranas biológicas
 
-## Formação Complementar
+## Courses
 
 `2006`
 __Summer School on Soft Matter Physics__, IF, USP
@@ -214,7 +212,7 @@ __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de
 - Transmiting Science
 
 
-## Monitorias
+## Teaching Assistant Experience
 
 `2007-09`
 __Fisiologia de Membranas__, ICB, USP
@@ -288,7 +286,7 @@ __VI Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 
-## Cursos Ministrados
+## Teaching
 
 `2012`
 __Introdução a manipulação de dados com a linguagem R__, IO, USP
