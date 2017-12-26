@@ -77,7 +77,7 @@ Bolsa de Doutorado pela FAPESP
 Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
 
 - [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
-- __Evolution__, 2017 71-10: 2370–2380. doi:10.1111/evo.13304
+- __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
 
 
 ` 2017` 
@@ -108,7 +108,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 Hubbe A., __Diogo Melo__, G. Marroig
 
 - [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
-- __Paleobiology__, 2016 42 (3), 465-488 doi:10.1017/pab.2015.49
+- __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
@@ -121,19 +121,19 @@ __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
-- __Current Biology__, 2015 25(8) p1086–1090
+- __Current Biology__, 2015 25(8):1086–1090
 
 `2015`
 __Diogo Melo__, G. Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- __Proceedings of the National Academy of Sciences__, 2015 112 (2) 470-475
+- __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475
 
 `2012`
 Marroig G., __Diogo Melo__, G. Garcia
 
 - [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
-- __Evolution__, 2012 66-5: 1506–1524
+- __Evolution__, 2012 66(5):1506–1524
 
 `2011`
 Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
