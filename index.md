@@ -84,7 +84,7 @@ Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
 Imenez Silva P.H., __Diogo Melo__, P.O.R. de Mendonça 
 
 - [Insights from Systems Biology in Physiological Studies: Learning from Context.](https://www.karger.com/Article/FullText/478648)
-- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi.org/10.1159/000478648
+- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
 
 `2016`
 __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
