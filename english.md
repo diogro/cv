@@ -12,13 +12,6 @@ title: Curriculum Vitae Diogo Melo
 |
 </div>
 
-## Research interests
-
-### Languages
-
-- Portuguese: Fluent
-- English: Fluent
-
 ## Education
 
 `2014-current`
