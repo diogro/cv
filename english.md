@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum Vitae Diogo Melo
+title: English CV Diogo Melo
 ---
 # Diogo Melo
 
