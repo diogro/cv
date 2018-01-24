@@ -151,7 +151,7 @@ __Diogo Melo__
 
 - The Evolution of Pleiotropy and Modularity
 - Invited speaker 
-- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
+- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Sweden__
 
 
 ## Research
@@ -216,9 +216,10 @@ __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
-__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+__Statistical modeling in ecology__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Graduate course for biology students
+- Profs. Paulo Inácio Prado e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
@@ -262,14 +263,12 @@ __VI Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 `2012`
 __Introduction to data manipulation in the R language__, IO, USP
 
-- Curso na semana temática do instituto oceanográfico da USP
-- Carga horária de 12h
+- Short course for undergraduate students in Oceanography
 
 `2017`
-__Modularidade: conectando padrões e processos em evolução multivariada__, FFCLRP, USP
+__Modularidade: conecting patterns and processes in multivariate evolution__, FFCLRP, USP
 
-- Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
-- Carga horária de 30h
+- Graduate course for biology students
 
 <!-- ### Footer
 
