@@ -52,24 +52,6 @@ __Molecular Sciences Course__
 - University of São Paulo
 
 
-## Bolsas
-
-`2005-07`
-Bolsa de iniciação científica pelo CNPq
-
-`2010-12`
-Bolsa de Mestrado pela FAPESP
-
-`2013-14`
-Bolsa de Treinamento Técnico pela FAPESP
-
-Desenvolvimento de programas para análise de dados evolutivos e
-simulações de populações biológicas.
-
-`2015-atual`
-Bolsa de Doutorado pela FAPESP
-
-
 ## Publications
 
 `2017` 
@@ -175,75 +157,62 @@ __Diogo Melo__
 ## Research
 
 `2008-current`
-__Laboratório de Evolução de Mamíferos__, IB, USP
+__Mammalian Evolution Lab (LEM)__, IB, USP
 
-- Simulações computacionais de populações biológicas
-- Técnicas robustas para quantificação de padrões de covariância
-- Estatística multivariada para análise de dados morfológicos
-- Implementações eficientes de técnicas de morfometria
+- Prof. Gabriel Marroig
+- Computer simulations of biological populations
+- Robust methods for covariance matrix estimation
+- Multivariate statistics for data analysis
+- Efficient implementations of morphometric methods
 
+`2014, 2016`
+__Wolf Lab for Evolutionary Genetics__, University of Bath, UK
+
+- Prof. Jason Wolf
+- Multivariate quantitative trait loci mapping
+- Linking genetic effects to covariation
 
 `2005-07`
-__Termodinâmica e Física Estatística de sistemas físico-químicos e de interesse biológico__, IF, USP
+__Thermodynamics and Statistical Physics of physico-chemical systems of biological interest__, IF, USP
 
-- Simulações computacionais de membranas biológicas
-
-## Courses
-
-`2006`
-__Summer School on Soft Matter Physics__, IF, USP
-
-`2007`
-__Course in Neurobiology__, UNESP, Rio Claro
-
-- Prof. Michael Hendrick, Prof. Tobias Wang
-
-`2008`
-__Curso em Embriologia de Mamíferos__, ICB, USP
-
-`2008`
-__Complex Systems Summer School__, San Carlos de Bariloche, Argentina
-
-- Santa Fe Institute
-
-`2015`
-__Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
-
-- Transmiting Science
-
+- Prof. Vera Henriques
+- Computer simulations of biological membranes
 
 ## Teaching Assistant Experience
 
 `2007-09`
-__Fisiologia de Membranas__, ICB, USP
+__Membrane Physiology__, ICB, USP
 
-- Curso para graduação em Medicina do Prof. Antônio Cassola
+- Undergrad course for medical students
+- Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
-__Biologia Evolutiva__, IB, USP
+__Evolutionary Biology__, IB, USP
 
-- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Undergrad course for biology students
+- Profs. Diogo Meyer e Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2011, 2014`
-__Processos Evolutivos__, IB, USP
+__Evolutionary Processes__, IB, USP
 
-- Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
-- Programa de aperfeiçoamento de ensino (PAE)
+- Undergrad course for biology students
+- Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-16`
-__Uso da linguagem R para análise de dados ecológicos__, IB, USP
+__Using the R language for the analysis of ecological data__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
+- Graduate course for biology students
+- Profs. Paulo Inácio Prado e Alexandre Adalardo
 - Departamento de Ecologia
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course for biology and physics students
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
@@ -255,41 +224,43 @@ __Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course for biology and physics students
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
-__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
+__Field Course in Atlantic Forrest Ecology__, IB, USP
 
-- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+- Graduate course for ecology students
+- Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
 `2016`
 __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course for biology and physics students
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2016`
-__Biologia Evolutiva__, IB, USP
+__Evolutionary Biology__, IB, USP
 
-- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Undergrad course for biology students
+- Profs. Diogo Meyer e Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2017`
 __VI Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Graduate course for biology and physics students
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 
 ## Teaching
 
 `2012`
-__Introdução a manipulação de dados com a linguagem R__, IO, USP
+__Introduction to data manipulation in the R language__, IO, USP
 
 - Curso na semana temática do instituto oceanográfico da USP
 - Carga horária de 12h
@@ -302,4 +273,4 @@ __Modularidade: conectando padrões e processos em evolução multivariada__, FF
 
 <!-- ### Footer
 
-Última Atualização: Dezembro de 2017 -->
+Última Atualização: Janeiro de 2018 -->
