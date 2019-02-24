@@ -100,7 +100,7 @@ Hubbe A., __Diogo Melo__, G. Marroig
 __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
-- __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3)
+- __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3
 
 `2015`
 Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
