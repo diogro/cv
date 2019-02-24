@@ -100,31 +100,31 @@ Hubbe A., __Diogo Melo__, G. Marroig
 __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
-- __F1000 Research__, 2015 4:925
+- __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3)
 
 `2015`
 Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
-- __Current Biology__, 2015 25(8):1086–1090
+- __Current Biology__, 2015 25(8):1086–1090 doi:10.1016/j.cub.2015.02.061
 
 `2015`
 __Diogo Melo__, G. Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475
+- __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475 doi:10.1073/pnas.1322632112
 
 `2012`
 Marroig G., __Diogo Melo__, G. Garcia
 
 - [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
-- __Evolution__, 2012 66(5):1506–1524
+- __Evolution__, 2012 66(5):1506–1524 doi:10.1111/j.1558-5646.2011.01555.x
 
 `2011`
 Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
 - [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
-- __Evolutionary Biology__, 2011 38:225–241
+- __Evolutionary Biology__, 2011 38:225–241 doi:10.1007/s11692-010-9107-2
 
 ## Book chapters
 
