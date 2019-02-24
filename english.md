@@ -58,7 +58,7 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 `2019`
 __Diogo Melo__, G. Marroig,  J. B. Wolf
 
--  Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution. 
+-  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
 -  Journal Of Heredity.  Accepted, in press.
 
 
@@ -137,7 +137,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 `2019`
 __Diogo Melo__
 
-- How does modularity in the genotype-phenotype map interact with development and evolution?
+- [How does modularity in the genotype-phenotype map interact with development and evolution?]()
 - __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini. in press.
 
 ## Conferences and meetings
