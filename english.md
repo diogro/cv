@@ -138,7 +138,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 __Diogo Melo__
 
 - [How does modularity in the genotype-phenotype map interact with development and evolution?]()
-- __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini. in press.
+- __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini, 2019 in press
 
 ## Conferences and meetings
 
