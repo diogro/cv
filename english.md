@@ -146,6 +146,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
+- Attendant
 
 `2015`
 **Diogo Melo**, Gabriel Marroig
