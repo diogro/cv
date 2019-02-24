@@ -63,11 +63,11 @@ __Diogo Melo__, G. Marroig, Wolf J. B.
 
 
 `2017` 
-Penna A.^*, __Diogo Melo__^*, S. Bernardi, M. I. Oyarzabal, G. Marroig
+Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
 
 - [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
 - __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
-- * co-first authors
+- &#42; co-first authors
 
 
 ` 2017` 
