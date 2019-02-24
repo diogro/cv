@@ -126,7 +126,7 @@ Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 - [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 - __Evolutionary Biology__, 2011 38:225–241
 
-##Book chapters
+## Book chapters
 
 `2016`
 Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
@@ -134,6 +134,11 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 - [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
+`2019`
+__Diogo Melo__
+
+- How does modularity in the genotype-phenotype map interact with development and evolution?
+- __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini. in press.
 
 ## Conferences and meetings
 
