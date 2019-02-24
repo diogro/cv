@@ -220,6 +220,11 @@ __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de
 
 - Transmitting Science
 
+`2018`
+__The Search For Selection__, NIMBioS, University of Tennessee 
+
+- Prof. Bruce Walsh
+
 
 ## Teaching Assistant
 
