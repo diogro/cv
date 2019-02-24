@@ -71,11 +71,8 @@ p {
 
 code {
 	font: normal normal;
-<<<<<<< HEAD
-	font-size: 70%;
-=======
+
 	font-size: 60%;
->>>>>>> 53d390f050235666e98c47ae88f7cba017df5cc9
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
