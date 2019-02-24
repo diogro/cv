@@ -47,7 +47,7 @@ __Master's Degree in Genetics and Evolutionary Biology__
 - Universidade de São Paulo
 - Supervisor: Dr. Gabriel Marroig
 
-`2014-2019`
+`2014-2018`
 __Doctoral Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
