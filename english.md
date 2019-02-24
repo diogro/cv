@@ -53,7 +53,7 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 - Universidade de São Paulo
 - Supervisor: Dr. Gabriel Marroig
 
-## Articles
+## Research Articles
 
 `2019`
 __Diogo Melo__, G. Marroig, Wolf J. B.
@@ -197,7 +197,7 @@ __Thermodynamics and statistical physics of physical systems of biological inter
 
 - Computer simulations of biological membranes
 
-## Courses
+## Additional Education
 
 `2006`
 __Summer School on Soft Matter Physics__, IF, USP
