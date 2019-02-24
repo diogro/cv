@@ -18,7 +18,7 @@ Genética quantitativa, teoria evolutiva, análise de dados em larga escala, sim
 
 ### Interesses de pesquisa
 
-Processos evolutivos e sua interação com modularidade, efeitos genéticos e desenvolvimento.
+Processos evolutivos e sua interação com modularidade, arquitetura genética e desenvolvimento.
 
 ### Línguas
 
@@ -73,72 +73,104 @@ Bolsa de Doutorado pela FAPESP
 
 ## Publicações
 
+`2017` 
+Penna A., __Diogo Melo__, S. Bernardi, M. I. Oyarzabal, G. Marroig
+
+- [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+- __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
+
+
+` 2017` 
+Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
+
+- [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
+- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
+
 `2016`
-Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
-- Modularity and Integration.
-- **Encyclopedia of Evolutionary Biology**, in press.
+- [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+- __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Alex Hubbe, **Diogo Melo**, Gabriel Marroig
+Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
 
-- A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
-- **Paleobiology**, in press.
+- [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+- __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
+
+`2016`
+Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+
+- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+
+`2016`
+Hubbe A., __Diogo Melo__, G. Marroig
+
+- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+- __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-**Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+__Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
-- **F1000 Research**, 2015 4:925
+- __F1000 Research__, 2015 4:925
 
 `2015`
-Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Melo**, Daniel Rozen, Christopher R.L. Thompson
+Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
-- **Current Biology**, 2015 25(8) p1086–1090
+- __Current Biology__, 2015 25(8):1086–1090
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, G. Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- **Proceedings of the National Academy of Sciences**, 2015 112 (2) 470-475
+- __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475
 
 `2012`
-Gabriel Marroig, **Diogo Melo** e Guilherme Garcia
+Marroig G., __Diogo Melo__, G. Garcia
 
-- [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
-- **Evolution** 2012 66-5: 1506–1524
+- [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+- __Evolution__, 2012 66(5):1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia e Harley Sebastião
+Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
-- [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
-- **Evolutionary Biology** 2011 38:225–241
+- [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+- __Evolutionary Biology__, 2011 38:225–241
 
 
 ## Posters e congressos
 
 `2007`
-**Diogo Melo**, Vera Henriques
+__Diogo Melo__, Vera Henriques
 
 - Order-disorder phase transitions on dissociating model lipid membranes
-- **V Brazilian Meeting on Simulational Physics**
+- __V Brazilian Meeting on Simulational Physics__
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, Gabriel Marroig
 
 - The Effect of Directional Selection on Pleiotropy and Modularity.
-- **Evolution 2015, Guarujá - Brazil**
+- __Evolution 2015, Guarujá - Brazil__
 
 `2015`
-Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+Anna Penna, __Diogo Melo__, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 
 - Changes in multivariate covariance structures under directional selection
-- **Evolution 2015, Guarujá - Brazil**
+- __Evolution 2015, Guarujá - Brazil__
+
+`2016`
+__Diogo Melo__
+
+- The Evolution of Pleiotropy and Modularity
+- Invited speaker 
+- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
 ## Pesquisa
 
@@ -151,12 +183,17 @@ __Laboratório de Evolução de Mamíferos__, IB, USP
 - Implementações eficientes de técnicas de morfometria
 
 
+- Simulações computacionais de populações biológicas
+- Técnicas robustas para quantificação de padrões de covariância
+- Estatística multivariada para análise de dados morfológicos
+- Implementações eficientes de técnicas de morfometria
+
 `2005-07`
 __Termodinâmica e Física Estatística de sistemas físico-químicos e de interesse biológico__, IF, USP
 
 - Simulações computacionais de membranas biológicas
 
-## Cursos
+## Formação Complementar
 
 `2006`
 __Summer School on Soft Matter Physics__, IF, USP
@@ -201,7 +238,7 @@ __Processos Evolutivos__, IB, USP
 - Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
-`2012-15`
+`2012-16`
 __Uso da linguagem R para análise de dados ecológicos__, IB, USP
 
 - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
@@ -227,6 +264,18 @@ __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 - Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
+`2014`
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2015`
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
 __Curso de Campo Ecologia da Mata Atlântica__, IB, USP
@@ -244,8 +293,12 @@ __Introdução a manipulação de dados com a linguagem R__, IO, USP
 - Carga horária de 12h
 
 
+`2017`
+__Modularidade: conectando padrões e processos em evolução multivariada__, FFCLRP, USP
+
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
+- Carga horária de 30h
+
 <!-- ### Footer
 
-Última Atualização: Outubro de 2015 -->
-
-
+Última Atualização: Dezembro de 2017 -->

@@ -42,59 +42,97 @@ __Biological Sciences__
 - Universidade de São Paulo
 
 `2010-12`
-__Masters Degree in Evolutionary Biology__
+__Master's Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
+- Supervisor: Dr. Gabriel Marroig
 
-`2014-current`
-__PhD Candidate in Evolutionary Biology__
+`2014-2019`
+__Doctoral Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
+- Supervisor: Dr. Gabriel Marroig
 
 ## Articles
 
+`2019`
+__Diogo Melo__, G. Marroig, Wolf J. B.
+
+-  Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution. 
+-  Journal Of Heredity.  Accepted, in press.
+
+
+`2017` 
+Penna A.$^*$, __Diogo Melo__$^*$, S. Bernardi, M. I. Oyarzabal, G. Marroig
+
+- [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+- __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
+- $^*$ co-first authors
+
+
+` 2017` 
+Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
+
+- [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
+- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
+
 `2016`
-Ana Paula Assis, Barbara Costa, Daniela Rossoni, **Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 
-- Modularity and Integration.
-- **Encyclopedia of Evolutionary Biology**, in press.
+- [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+- __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Alex Hubbe, **Diogo Melo**, Gabriel Marroig
+Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
 
-- A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology.
-- **Paleobiology**, in press.
+- [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+- __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
+
+
+`2016`
+Hubbe A., __Diogo Melo__, G. Marroig
+
+- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+- __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-**Diogo Melo**, Guilherme Garcia, Alex Hubbe, Ana Paula Assis, Gabriel Marroig
+__Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 
 - [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
-- **F1000 Research**, 2015 4:925
+- __F1000 Research__, 2015 4:925
 
 `2015`
-Jason B. Wolf, Jennifer A. Howie, Katie Parkinson, Nicole Gruenheit, **Diogo Melo**, Daniel Rozen, Christopher R.L. Thompson
+Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 
 - [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
-- **Current Biology**, 2015 25(8) p1086–1090
+- __Current Biology__, 2015 25(8):1086–1090
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+__Diogo Melo__, G. Marroig
 
 - [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
-- **Proceedings of the National Academy of Sciences**, 2015 112 (2) 470-475
+- __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475
 
 `2012`
-Gabriel Marroig, **Diogo Melo**, Guilherme Garcia
+Marroig G., __Diogo Melo__, G. Garcia
 
-- [ Modularity, noise, and natural selection ](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
-- **Evolution** 2012 66-5: 1506–1524
+- [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+- __Evolution__, 2012 66(5):1506–1524
 
 `2011`
-Gabriel Marroig, **Diogo Melo**, Arthur Porto, Guilherme Garcia, Harley Sebastião
+Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
-- [ Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices ](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
-- **Evolutionary Biology** 2011 38:225–241
+- [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+- __Evolutionary Biology__, 2011 38:225–241
+
+##Book chapters
+
+`2016`
+Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+
+- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 
 ## Conferences and meetings
@@ -229,9 +267,15 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 - Short course at the Instituto Oceanográfico - USP
 - 12h work load
 
+`2017`
+__Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
+
+- Graduate level course offered in the Compared biology program at FFCLRP/USP
+- 30h work load
+
 
 <!-- ### Footer
 
-Última Atualização: February 2016 -->
+Última Atualização: February 2019 -->
 
 
