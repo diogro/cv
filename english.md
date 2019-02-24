@@ -142,7 +142,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 
 - Order-disorder phase transitions on dissociating model lipid membranes
 - Poster
-- **V Brazilian Meeting on Simulational Physics**
+- **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
@@ -152,14 +152,14 @@ __10th International Mammalogical Congress__, Mendoza, Argentina
 
 - The Effect of Directional Selection on Pleiotropy and Modularity.
 - Poster
-- **Evolution 2015, Guarujá - Brazil**
+- **Evolution 2015, Guarujá, Brazil**
 
 `2015`
 Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 
 - Changes in multivariate covariance structures under directional selection
 - Oral presentation
-- **Evolution 2015, Guarujá - Brazil**
+- **Evolution 2015, Guarujá, Brazil**
 
 `2016`
 __Diogo Melo__, Gabriel Marroig
@@ -173,7 +173,7 @@ __Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
 
 -  Genetic architecture and the evolution of variational modularity
 -  Poster
-- **II Joint Congress on Evolutionary Biology 2018, Montpellier - France**
+- **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
 
 ## Research
 
