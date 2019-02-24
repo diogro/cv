@@ -56,7 +56,7 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 ## Research Articles
 
 `2019`
-__Diogo Melo__, G. Marroig, Wolf J. B.
+__Diogo Melo__, G. Marroig,  J. B. Wolf
 
 -  Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution. 
 -  Journal Of Heredity.  Accepted, in press.
