@@ -63,11 +63,11 @@ __Diogo Melo__, G. Marroig, Wolf J. B.
 
 
 `2017` 
-Penna A.$^*$, __Diogo Melo__$^*$, S. Bernardi, M. I. Oyarzabal, G. Marroig
+Penna A.^*, __Diogo Melo__^*, S. Bernardi, M. I. Oyarzabal, G. Marroig
 
 - [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
 - __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
-- $^*$ co-first authors
+- * co-first authors
 
 
 ` 2017` 
@@ -150,13 +150,26 @@ __10th International Mammalogical Congress__, Mendoza, Argentina
 **Diogo Melo**, Gabriel Marroig
 
 - The Effect of Directional Selection on Pleiotropy and Modularity.
-- **Evolution 2015, Guarujá - Brazil**
+- **Evolution 2015, Guarujá - Brazil**, Poster
 
 `2015`
 Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 
 - Changes in multivariate covariance structures under directional selection
 - **Evolution 2015, Guarujá - Brazil**
+
+`2016`
+__Diogo Melo__, Gabriel Marroig
+
+- The Evolution of Pleiotropy and Modularity
+- Invited speaker 
+- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
+
+`2018`
+__Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
+
+-  Genetic architecture and the evolution of variational modularity
+- **II Joint Congress on Evolutionary Biology 2018, Montpellier - France**, Poster
 
 ## Research
 
