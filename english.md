@@ -232,7 +232,7 @@ __The Search For Selection__, NIMBioS, University of Tennessee
 __Membrane Physiology__, ICB, USP
 
 
-- Undergraduate course for medicine students - Prof. Antônio Cassola
+- Undergraduate course for medical students - Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
