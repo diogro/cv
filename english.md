@@ -257,7 +257,7 @@ __Use of the R programing language for data analysis in ecology__, IB, USP
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
@@ -270,7 +270,7 @@ __Statistical modeling for ecology and natural resources__, IB, USP
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
@@ -283,8 +283,14 @@ __Field biology course in the Atlantic Forest__, IB, USP
 __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organization M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2016`
+__Quantitative genetics course__, IB, USP
+- Graduate course in Quantitative Genetics
+- Prof. Gabriel Marroig, Prof Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
+- Departamento de Genética e Biologia Evolutiva
 
 
 ## Teaching
@@ -293,13 +299,19 @@ __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 __Introduction to data manipulation in the R programming language__, IO, USP
 
 - Short course at the Instituto Oceanográfico - USP
-- 12h work load
+- 12h workload
+
+`2017`
+__MCMC: step by step__, IB, USP
+
+- Workshop on the Markov Chain Monte Carlo method.
+- 20h workload
 
 `2017`
 __Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
 
 - Graduate level course offered in the Compared biology program at FFCLRP/USP
-- 30h work load
+- 30h workload
 
 
 <!-- ### Footer
