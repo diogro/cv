@@ -124,7 +124,7 @@ Marroig G., __Diogo Melo__, G. Garcia
 Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
 - [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
-- __Evolutionary Biology__, 2011 38:225–241 doi:10.1007/s11692-010-9107-2
+- __Evolutionary Biology__, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
 
 ## Book chapters
 
