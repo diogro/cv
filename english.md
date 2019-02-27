@@ -43,13 +43,13 @@ __Master's Degree in Genetics and Evolutionary Biology__
 `2007-09`
 __Biological Sciences__
 
- - Bachelor's degree with emphasis in evolutionary biology.
+ - Bachelor's degree with emphasis in evolutionary biology
 - Universidade de São Paulo
 
 `2003-07`
 __Molecular Sciences Course__
 
-- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics.
+- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
 - Universidade de São Paulo
 
 ## Research Articles
@@ -58,7 +58,7 @@ __Molecular Sciences Course__
 __Diogo Melo__, G. Marroig,  J. B. Wolf
 
 -  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
--  __Journal Of Heredity__.  Accepted, in press.
+-  __Journal Of Heredity__.  Accepted, in press
 
 
 `2017` 
@@ -142,7 +142,7 @@ Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 ## Conferences and meetings
 
 `2018`
-__Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
+__Diogo Melo__, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
 
 -  Genetic architecture and the evolution of variational modularity
 -  Poster
@@ -165,7 +165,7 @@ Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 `2015`
 **Diogo Melo**, Gabriel Marroig
 
-- The Effect of Directional Selection on Pleiotropy and Modularity.
+- The Effect of Directional Selection on Pleiotropy and Modularity
 - Poster
 - **Evolution 2015, Guarujá, Brazil**
 
