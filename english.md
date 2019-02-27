@@ -6,7 +6,7 @@ title: Currículo Vitae Diogo Melo
 
 <div id="webaddress">
 | <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
-| <a href="http://www.diogromelo.com">webpage</a>
+| <a href="https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en">scholar</a>
 | <a href="http://github.com/diogro">github/diogro</a>
 | +55 11 98115 4876
 |
@@ -128,44 +128,26 @@ Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 
 ## Book chapters
 
-`2016`
-Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
-
-- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
-- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
-
 `2019`
 __Diogo Melo__
 
 - [How does modularity in the genotype-phenotype map interact with development and evolution?]()
 - __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini, 2019 in press
 
+`2016`
+Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+
+- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+
 ## Conferences and meetings
 
-`2007`
-**Diogo Melo**, Vera Henriques
+`2018`
+__Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
 
-- Order-disorder phase transitions on dissociating model lipid membranes
-- Poster
-- **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
-
-`2009`
-__10th International Mammalogical Congress__, Mendoza, Argentina
-- Attendant
-
-`2015`
-**Diogo Melo**, Gabriel Marroig
-
-- The Effect of Directional Selection on Pleiotropy and Modularity.
-- Poster
-- **Evolution 2015, Guarujá, Brazil**
-
-`2015`
-Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
-
-- Changes in multivariate covariance structures under directional selection
-- Oral presentation
-- **Evolution 2015, Guarujá, Brazil**
+-  Genetic architecture and the evolution of variational modularity
+-  Poster
+- **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
 
 `2016`
 __Diogo Melo__, Gabriel Marroig
@@ -174,12 +156,30 @@ __Diogo Melo__, Gabriel Marroig
 - Invited speaker 
 - __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
-`2018`
-__Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
+`2015`
+Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 
--  Genetic architecture and the evolution of variational modularity
--  Poster
-- **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
+- Changes in multivariate covariance structures under directional selection
+- Oral presentation
+- **Evolution 2015, Guarujá, Brazil**
+
+`2015`
+**Diogo Melo**, Gabriel Marroig
+
+- The Effect of Directional Selection on Pleiotropy and Modularity.
+- Poster
+- **Evolution 2015, Guarujá, Brazil**
+
+`2009`
+__10th International Mammalogical Congress__, Mendoza, Argentina
+- Attendant
+
+`2007`
+**Diogo Melo**, Vera Henriques
+
+- Order-disorder phase transitions on dissociating model lipid membranes
+- Poster
+- **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
 ## Research
 
@@ -190,6 +190,7 @@ __Mammal Evolution Laboratory__, IB, USP
 - Robust estimation of covariance patterns
 - Multivariate statistics for morphological data
 - Efficient computer implementation of morphometric techniques
+- Linking allelic variation to genetic covariation and modularity
 
 `2005-07`
 
@@ -199,32 +200,31 @@ __Thermodynamics and statistical physics of physical systems of biological inter
 
 ## Additional Education
 
-`2006`
-__Summer School on Soft Matter Physics__, IF, USP
+`2018`
+__The Search For Selection__, NIMBioS, University of Tennessee 
 
-`2007`
-__Course in Neurobiology__, UNESP, Rio Claro
-
-- Prof. Michael Hendrick, Prof. Tobias Wang
-
-`2008`
-__Mammal Embryology__, ICB, USP
-
-`2008`
-__Complex Systems Summer School__, San Carlos de Bariloche, Argentina
-
-- Santa Fe Institute
+- Prof. Bruce Walsh
 
 `2015`
 __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
 
 - Transmitting Science
 
-`2018`
-__The Search For Selection__, NIMBioS, University of Tennessee 
+`2008`
+__Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 
-- Prof. Bruce Walsh
+- Santa Fe Institute
 
+`2008`
+__Mammal Embryology__, ICB, USP
+
+`2007`
+__Course in Neurobiology__, UNESP, Rio Claro
+
+- Prof. Michael Hendrick, Prof. Tobias Wang
+
+`2006`
+__Summer School on Soft Matter Physics__, IF, USP
 
 ## Teaching Assistant
 
@@ -248,7 +248,7 @@ __Evolutionary Processes__, IB, USP
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-16`
-__Use of the R programing language for data analysis in ecology__, IB, USP
+__Use of the R programming language for data analysis in ecology__, IB, USP
 
 - Graduate course for biology students - Profs. Paulo Inácio Prado and Alexandre Adalardo
 - Departamento de Ecologia
@@ -289,7 +289,7 @@ __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 `2016`
 __Quantitative genetics course__, IB, USP
 - Graduate course in Quantitative Genetics
-- Prof. Gabriel Marroig, Prof Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
+- Prof. Gabriel Marroig, Prof. Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
 - Departamento de Genética e Biologia Evolutiva
 
 
