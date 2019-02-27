@@ -58,7 +58,7 @@ __Molecular Sciences Course__
 __Diogo Melo__, G. Marroig,  J. B. Wolf
 
 -  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
--  Journal Of Heredity.  Accepted, in press.
+-  __Journal Of Heredity__.  Accepted, in press.
 
 
 `2017` 
