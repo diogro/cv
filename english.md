@@ -28,18 +28,11 @@ Evolutionary processes and their interaction with modularity, genetics and devel
 
 ## Education
 
-`2003-07`
-__Molecular Sciences Course__
+`2014-2018`
+__Doctoral Degree in Genetics and Evolutionary Biology__
 
-- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics.
 - Universidade de São Paulo
-
-
-`2007-09`
-__Biological Sciences__
-
- - Bachelor's degree with emphasis in evolutionary biology.
-- Universidade de São Paulo
+- Supervisor: Dr. Gabriel Marroig
 
 `2010-12`
 __Master's Degree in Genetics and Evolutionary Biology__
@@ -47,11 +40,17 @@ __Master's Degree in Genetics and Evolutionary Biology__
 - Universidade de São Paulo
 - Supervisor: Dr. Gabriel Marroig
 
-`2014-2018`
-__Doctoral Degree in Genetics and Evolutionary Biology__
+`2007-09`
+__Biological Sciences__
 
+ - Bachelor's degree with emphasis in evolutionary biology.
 - Universidade de São Paulo
-- Supervisor: Dr. Gabriel Marroig
+
+`2003-07`
+__Molecular Sciences Course__
+
+- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics.
+- Universidade de São Paulo
 
 ## Research Articles
 
