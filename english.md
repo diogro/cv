@@ -55,10 +55,10 @@ __Molecular Sciences Course__
 ## Research Articles
 
 `2019`
-__Diogo Melo__, G. Marroig,  J. B. Wolf
+[Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
 
--  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
 -  __Journal Of Heredity__.  Accepted, in press
+- __Diogo Melo__, G. Marroig,  J. B. Wolf
 
 
 `2017` 
