@@ -153,7 +153,7 @@ __Molecular Sciences Course__
 `2016`
 __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
-__Diogo Melo__, Gabriel Marroig
+- __Diogo Melo__, Gabriel Marroig
 - The Evolution of Pleiotropy and Modularity
 - Invited speaker 
 
@@ -174,6 +174,7 @@ __Diogo Melo__, Gabriel Marroig
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
+
 - Attendant
 
 `2007`
