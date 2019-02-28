@@ -25,7 +25,6 @@ The influence of genetic architecture on the evolution of complex traits.
 - Portuguese: Fluent
 - English: Fluent
 
-
 ## Education
 
 `2014-2018`
