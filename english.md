@@ -220,7 +220,8 @@ __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 - Santa Fe Institute
 
 `2008`
-__Mammal Embryology__, ICB, USP
+__Mammal Embryology__, São Paulo, Brazil
+- ICB, USP
 
 `2007`
 __Course in Neurobiology__, Rio Claro, Brazil
