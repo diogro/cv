@@ -57,72 +57,73 @@ __Molecular Sciences Course__
 `2019`
 [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution]()
 
--  __Journal Of Heredity__.  Accepted, in press
 - __Diogo Melo__, G. Marroig,  J. B. Wolf
+-  __Journal Of Heredity__.  Accepted, in press
+
 
 
 `2017` 
-Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
+[The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
 
-- [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+- Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
 - __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
 - &#42; co-first authors
 
 
 ` 2017` 
-Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
+[Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
 
-- [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
+- Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
 - __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
 
 `2016`
-__Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
+[Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
 
-- [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+- __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 - __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
+[Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
 
-- [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+- Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
 - __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
 
 
 `2016`
-Hubbe A., __Diogo Melo__, G. Marroig
+[A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
 
-- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+- Hubbe A., __Diogo Melo__, G. Marroig
 - __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-__Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
+[EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
 
-- [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
+- __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 - __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3
 
 `2015`
-Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
+[Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
 
-- [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
+- Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 - __Current Biology__, 2015 25(8):1086–1090 doi:10.1016/j.cub.2015.02.061
 
 `2015`
-__Diogo Melo__, G. Marroig
+[Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
 
-- [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
+- __Diogo Melo__, G. Marroig
 - __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475 doi:10.1073/pnas.1322632112
 
 `2012`
-Marroig G., __Diogo Melo__, G. Garcia
+[Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 
-- [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+- Marroig G., __Diogo Melo__, G. Garcia
 - __Evolution__, 2012 66(5):1506–1524 doi:10.1111/j.1558-5646.2011.01555.x
 
 `2011`
-Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
+[Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 
-- [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+- Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 - __Evolutionary Biology__, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
 
 ## Book chapters
