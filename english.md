@@ -203,9 +203,10 @@ __Thermodynamics and statistical physics of physical systems of biological inter
 ## Additional Education
 
 `2018`
-__The Search For Selection__, NIMBioS, University of Tennessee 
+__The Search For Selection__, Knoxville, Tennessee
 
 - Prof. Bruce Walsh
+- NIMBioS, University of Tennessee 
 
 `2015`
 __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
@@ -222,12 +223,14 @@ __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 __Mammal Embryology__, ICB, USP
 
 `2007`
-__Course in Neurobiology__, UNESP, Rio Claro
+__Course in Neurobiology__, Rio Claro, Brazil
 
 - Prof. Michael Hendrick and Prof. Tobias Wang
+- UNESP
 
 `2006`
-__Summer School on Soft Matter Physics__, IF, USP
+__Summer School on Soft Matter Physics__, São Paulo, Brazil
+- IF, USP
 
 ## Teaching Assistant
 
