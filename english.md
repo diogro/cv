@@ -14,11 +14,11 @@ title: Currículo Vitae Diogo Melo
 
 ### Skills
 
-Quantitative genetics,  evolutionary theory, data analysis, agent based modeling, Bayesian modeling and statistics.
+Quantitative genetics,  evolutionary theory, data analysis, individual-based modeling, Bayesian modeling and statistics.
 
 ### Research interest
 
-Evolutionary processes and their interaction with modularity, genetics and development.
+The influence of genetic architecture on the evolution of complex traits.
 
 ### Languages
 
