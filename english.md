@@ -129,57 +129,59 @@ __Molecular Sciences Course__
 ## Book chapters
 
 `2019`
-__Diogo Melo__
+[How does modularity in the genotype-phenotype map interact with development and evolution?]()
 
-- [How does modularity in the genotype-phenotype map interact with development and evolution?]()
+- __Diogo Melo__
 - __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini, 2019 in press
 
 `2016`
-Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+[Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
 
-- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 ## Conferences and meetings
 
 `2018`
-__Diogo Melo__, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
+**II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
 
+- __Diogo Melo__, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
 -  Genetic architecture and the evolution of variational modularity
 -  Poster
-- **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
+
 
 `2016`
-__Diogo Melo__, Gabriel Marroig
+__5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
+__Diogo Melo__, Gabriel Marroig
 - The Evolution of Pleiotropy and Modularity
 - Invited speaker 
-- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
+
 
 `2015`
-Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+- **Evolution 2015, Guarujá, Brazil**
 
+- **Diogo Melo**, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 - Changes in multivariate covariance structures under directional selection
 - Oral presentation
-- **Evolution 2015, Guarujá, Brazil**
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+**Evolution 2015, Guarujá, Brazil**
 
+- **Diogo Melo**, Gabriel Marroig
 - The Effect of Directional Selection on Pleiotropy and Modularity
 - Poster
-- **Evolution 2015, Guarujá, Brazil**
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
 - Attendant
 
 `2007`
-**Diogo Melo**, Vera Henriques
+**V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
+- **Diogo Melo**, Vera Henriques
 - Order-disorder phase transitions on dissociating model lipid membranes
 - Poster
-- **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
 ## Research
 
