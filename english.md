@@ -210,6 +210,7 @@ __The Search For Selection__, NIMBioS, University of Tennessee
 `2015`
 __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
 
+- Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
 - Transmitting Science
 
 `2008`
@@ -223,7 +224,7 @@ __Mammal Embryology__, ICB, USP
 `2007`
 __Course in Neurobiology__, UNESP, Rio Claro
 
-- Prof. Michael Hendrick, Prof. Tobias Wang
+- Prof. Michael Hendrick and Prof. Tobias Wang
 
 `2006`
 __Summer School on Soft Matter Physics__, IF, USP
@@ -234,58 +235,64 @@ __Summer School on Soft Matter Physics__, IF, USP
 __Membrane Physiology__, ICB, USP
 
 
-- Undergraduate course for medical students - Prof. Antônio Cassola
+- Undergraduate course for medical students 
+- Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
 __Evolutionary Biology__, IB, USP
 
-- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
+- Undergraduate course for biology students 
+- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2011, 2014`
 __Evolutionary Processes__, IB, USP
 
-- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
+- Undergraduate course for biology students 
+- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-16`
 __Use of the R programming language for data analysis in ecology__, IB, USP
 
-- Graduate course for biology students - Profs. Paulo Inácio Prado and Alexandre Adalardo
+- Graduate course for biology students 
+- Prof. Paulo Inácio Prado and Prof. Alexandre Adalardo
 - Departamento de Ecologia
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
 __Statistical modeling for ecology and natural resources__, IB, USP
 
-- Graduate course for biology students - Profs. Paulo Inácio Prado and João Luís Ferreira Batista
+- Graduate course for biology students 
+- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
 __Field biology course in the Atlantic Forest__, IB, USP
 
-- Graduate course in ecology and scientific writing - Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+- Graduate course in ecology and scientific writing 
+- Prof. Glaudo Machado, Prof. Paulo Inácio Prado e Prof. Adriana Martini
 - Departamento de Ecologia
 
 `2016`
 __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2016`
