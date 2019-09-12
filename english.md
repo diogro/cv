@@ -156,7 +156,7 @@ __Molecular Sciences Course__
 [How does modularity in the genotype-phenotype map interact with development and evolution?]()
 
 - __Diogo Melo__
-- __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini, 2019 in press
+-  In: Martín-Durán J., Vellutini B. (eds) __Old Questions and Young Approaches to Animal Evolution__. Fascinating Life Sciences. Springer, Cham
 
 `2016`
 [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
