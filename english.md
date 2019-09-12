@@ -44,7 +44,7 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 - Fully funded by a FAPESP PhD grant
 
 `2014, 2016`
-__PhD visiting scholar at the University of Bath__
+__Visiting PhD scholar at the University of Bath__
 
 - University of Bath
 - Supervisor: Dr. Jason Wolf
