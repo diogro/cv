@@ -31,7 +31,6 @@ The influence of genetic architecture on the evolution of complex traits.
 __Postdoctoral researcher__
 
 - Universidade de São Paulo
-- Supervisor: Dr. Gabriel Marroig
 - Funded by a FAPESP postdoctoral grant
 
 
@@ -63,7 +62,7 @@ __Master's Degree in Genetics and Evolutionary Biology__
 `2007-09`
 __Biological Sciences__
 
- - Bachelor's degree with emphasis in evolutionary biology
+- Bachelor's degree with emphasis in evolutionary biology
 - Universidade de São Paulo
 
 `2003-07`
@@ -75,7 +74,7 @@ __Molecular Sciences Course__
 ## Research Articles
 
 `2019`
--  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
+[Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
 
 - __Diogo Melo__, G. Marroig,  J. B. Wolf
 - __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
