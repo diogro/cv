@@ -347,20 +347,6 @@ __Membrane Physiology__, ICB, USP
 - Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ### Footer
 
 Última Atualização: September 2019 -->
