@@ -252,53 +252,51 @@ __Course in Neurobiology__, Rio Claro, Brazil
 __Summer School on Soft Matter Physics__, São Paulo, Brazil
 - IF, USP
 
+## Teaching
+
+`2017, 2019`
+__Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
+
+- Graduate level course offered in the Compared biology program at FFCLRP/USP
+- 30h workload
+
+`2017`
+__MCMC: step by step__, IB, USP
+
+- Workshop on the Markov Chain Monte Carlo method.
+- 20h workload
+
+`2012`
+__Introduction to data manipulation in the R programming language__, IO, USP
+
+- Short course at the Instituto Oceanográfico - USP
+- 12h workload
+
+
 ## Teaching Assistant
 
-`2007-09`
-__Membrane Physiology__, ICB, USP
-
-
-- Undergraduate course for medical students 
-- Prof. Antônio Cassola
-- Departamento de Fisiologia e Biofísica
-
-`2009, 2012-13`
+`2009, 2012-13, 2019`
 __Evolutionary Biology__, IB, USP
 
 - Undergraduate course for biology students 
 - Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
-`2011, 2014`
-__Evolutionary Processes__, IB, USP
-
-- Undergraduate course for biology students 
-- Prof. Diogo Meyer and Prof. Gabriel Marroig
-- Departamento de Genética e Biologia Evolutiva
-
-`2012-16`
+`2012-19`
 __Use of the R programming language for data analysis in ecology__, IB, USP
 
 - Graduate course for biology students 
 - Prof. Paulo Inácio Prado and Prof. Alexandre Adalardo
 - Departamento de Ecologia
 
-`2014`
-__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+`2016`
+__Quantitative genetics course__, IB, USP
+- Graduate course in Quantitative Genetics
+- Prof. Gabriel Marroig, Prof. Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
+- Departamento de Genética e Biologia Evolutiva
 
-- Graduate course in applied mathematics in biology
-- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
-- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
-
-`2014`
-__Statistical modeling for ecology and natural resources__, IB, USP
-
-- Graduate course for biology students 
-- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
-- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
-
-`2015`
-__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+`2016`
+__V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
 - Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
@@ -311,43 +309,60 @@ __Field biology course in the Atlantic Forest__, IB, USP
 - Prof. Glaudo Machado, Prof. Paulo Inácio Prado e Prof. Adriana Martini
 - Departamento de Ecologia
 
-`2016`
-__V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+`2015`
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
 - Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
-`2016`
-__Quantitative genetics course__, IB, USP
-- Graduate course in Quantitative Genetics
-- Prof. Gabriel Marroig, Prof. Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
+`2014`
+__Statistical modeling for ecology and natural resources__, IB, USP
+
+- Graduate course for biology students 
+- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2014`
+__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Graduate course in applied mathematics in biology
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+
+`2011, 2014`
+__Evolutionary Processes__, IB, USP
+
+- Undergraduate course for biology students 
+- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 
-## Teaching
+`2007-09`
+__Membrane Physiology__, ICB, USP
 
-`2012`
-__Introduction to data manipulation in the R programming language__, IO, USP
 
-- Short course at the Instituto Oceanográfico - USP
-- 12h workload
+- Undergraduate course for medical students 
+- Prof. Antônio Cassola
+- Departamento de Fisiologia e Biofísica
 
-`2017`
-__MCMC: step by step__, IB, USP
 
-- Workshop on the Markov Chain Monte Carlo method.
-- 20h workload
 
-`2017`
-__Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
 
-- Graduate level course offered in the Compared biology program at FFCLRP/USP
-- 30h workload
+
+
+
+
+
+
+
+
+
 
 
 <!-- ### Footer
 
-Última Atualização: February 2019 -->
+Última Atualização: September 2019 -->
 
 
