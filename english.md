@@ -76,7 +76,7 @@ __Molecular Sciences Course__
 `2019`
 [Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size]()
 
-- Machado F, A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
+- Machado F., A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
 - __Evolution__. Accepted, in press.
 
 `2019`
