@@ -275,7 +275,7 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 
 ## Teaching Assistant
 
-`2009, 2012-13, 2019`
+`2012-13, 2019`
 __Evolutionary Biology__, IB, USP
 
 - Undergraduate course for biology students 
