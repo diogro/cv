@@ -14,16 +14,25 @@ title: Currículo Vitae Diogo Melo
 
 ### Skills
 
-Quantitative genetics,  evolutionary theory, data analysis, agent based modeling, Bayesian modeling and statistics.
+Quantitative genetics,  evolutionary theory, data analysis, individual-based modeling, Bayesian modeling and statistics.
 
 ### Research interest
 
-Evolutionary processes and their interaction with modularity, genetics and development.
+The influence of genetic architecture on the evolution of complex traits.
 
 ### Languages
 
 - Portuguese: Fluent
 - English: Fluent
+
+## Work
+
+`2019-current`
+__Postdoctoral researcher__
+
+- Universidade de São Paulo
+- Supervisor: Dr. Gabriel Marroig
+- Funded by a FAPESP postdoctoral grant
 
 
 ## Education
@@ -33,152 +42,166 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
 - Supervisor: Dr. Gabriel Marroig
+- Fully funded by a FAPESP PhD grant
+
+`2014, 2016`
+__PhD visiting scholar at the University of Bath__
+
+- University of Bath
+- Supervisor: Dr. Jason Wolf
+- Funded by FAPESP international travel grant
+- Funded by the Future Research Leaders Incubator Scheme and Global Research Scholarship Scheme from the University of Bath
 
 `2010-12`
 __Master's Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
 - Supervisor: Dr. Gabriel Marroig
+- Fully funded by a FAPESP masters grant
+
 
 `2007-09`
 __Biological Sciences__
 
- - Bachelor's degree with emphasis in evolutionary biology.
+ - Bachelor's degree with emphasis in evolutionary biology
 - Universidade de São Paulo
 
 `2003-07`
 __Molecular Sciences Course__
 
-- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics.
+- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
 - Universidade de São Paulo
 
 ## Research Articles
 
 `2019`
-__Diogo Melo__, G. Marroig,  J. B. Wolf
-
 -  [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
--  __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
+
+- __Diogo Melo__, G. Marroig,  J. B. Wolf
+- __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
 
 
 `2017` 
-Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
+[The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
 
-- [The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+- Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
 - __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
 - &#42; co-first authors
 
 
 ` 2017` 
-Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
+[Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
 
-- [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
+- Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
 - __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
 
 `2016`
-__Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
+[Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
 
-- [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+- __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
 - __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
 
 `2016`
-Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
+[Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
 
-- [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+- Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
 - __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
 
 
 `2016`
-Hubbe A., __Diogo Melo__, G. Marroig
+[A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
 
-- [A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+- Hubbe A., __Diogo Melo__, G. Marroig
 - __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
 
 
 `2015`
-__Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
+[EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
 
-- [EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
+- __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
 - __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3
 
 `2015`
-Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
+[Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
 
-- [Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
+- Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
 - __Current Biology__, 2015 25(8):1086–1090 doi:10.1016/j.cub.2015.02.061
 
 `2015`
-__Diogo Melo__, G. Marroig
+[Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
 
-- [Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
+- __Diogo Melo__, G. Marroig
 - __Proceedings of the National Academy of Sciences__, 2015 112(2):470-475 doi:10.1073/pnas.1322632112
 
 `2012`
-Marroig G., __Diogo Melo__, G. Garcia
+[Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
 
-- [Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+- Marroig G., __Diogo Melo__, G. Garcia
 - __Evolution__, 2012 66(5):1506–1524 doi:10.1111/j.1558-5646.2011.01555.x
 
 `2011`
-Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
+[Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
 
-- [Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+- Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 - __Evolutionary Biology__, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
 
 ## Book chapters
 
 `2019`
-__Diogo Melo__
+[How does modularity in the genotype-phenotype map interact with development and evolution?]()
 
-- [How does modularity in the genotype-phenotype map interact with development and evolution?]()
+- __Diogo Melo__
 - __Old Questions and Young Approaches to Animal Evolution__, edited by Drs. Martín-Durán & Vellutini, 2019 in press
 
 `2016`
-Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+[Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
 
-- [Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+- Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 ## Conferences and meetings
 
 `2018`
-__Diogo Melo__, Eleanor O'Brien, Jason Wolf, Gabriel Marroig
+**II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
 
+- __Diogo Melo__, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
 -  Genetic architecture and the evolution of variational modularity
 -  Poster
-- **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
+
 
 `2016`
-__Diogo Melo__, Gabriel Marroig
+__5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
 
+- __Diogo Melo__, Gabriel Marroig
 - The Evolution of Pleiotropy and Modularity
 - Invited speaker 
-- __5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
+
 
 `2015`
-Anna Penna, **Diogo Melo**, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+**Evolution 2015, Guarujá, Brazil**
 
+- **Diogo Melo**, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 - Changes in multivariate covariance structures under directional selection
 - Oral presentation
-- **Evolution 2015, Guarujá, Brazil**
 
 `2015`
-**Diogo Melo**, Gabriel Marroig
+**Evolution 2015, Guarujá, Brazil**
 
-- The Effect of Directional Selection on Pleiotropy and Modularity.
+- **Diogo Melo**, Gabriel Marroig
+- The Effect of Directional Selection on Pleiotropy and Modularity
 - Poster
-- **Evolution 2015, Guarujá, Brazil**
 
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
+
 - Attendant
 
 `2007`
-**Diogo Melo**, Vera Henriques
+**V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
+- **Diogo Melo**, Vera Henriques
 - Order-disorder phase transitions on dissociating model lipid membranes
 - Poster
-- **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
 
 ## Research
 
@@ -200,13 +223,15 @@ __Thermodynamics and statistical physics of physical systems of biological inter
 ## Additional Education
 
 `2018`
-__The Search For Selection__, NIMBioS, University of Tennessee 
+__The Search For Selection__, Knoxville, Tennessee
 
 - Prof. Bruce Walsh
+- NIMBioS, University of Tennessee 
 
 `2015`
 __Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
 
+- Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
 - Transmitting Science
 
 `2008`
@@ -215,15 +240,18 @@ __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 - Santa Fe Institute
 
 `2008`
-__Mammal Embryology__, ICB, USP
+__Mammal Embryology__, São Paulo, Brazil
+- ICB, USP
 
 `2007`
-__Course in Neurobiology__, UNESP, Rio Claro
+__Course in Neurobiology__, Rio Claro, Brazil
 
-- Prof. Michael Hendrick, Prof. Tobias Wang
+- Prof. Michael Hendrick and Prof. Tobias Wang
+- UNESP
 
 `2006`
-__Summer School on Soft Matter Physics__, IF, USP
+__Summer School on Soft Matter Physics__, São Paulo, Brazil
+- IF, USP
 
 ## Teaching Assistant
 
@@ -231,58 +259,64 @@ __Summer School on Soft Matter Physics__, IF, USP
 __Membrane Physiology__, ICB, USP
 
 
-- Undergraduate course for medical students - Prof. Antônio Cassola
+- Undergraduate course for medical students 
+- Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 `2009, 2012-13`
 __Evolutionary Biology__, IB, USP
 
-- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
+- Undergraduate course for biology students 
+- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2011, 2014`
 __Evolutionary Processes__, IB, USP
 
-- Undergraduate course for biology students - Profs. Diogo Meyer and Gabriel Marroig
+- Undergraduate course for biology students 
+- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-16`
 __Use of the R programming language for data analysis in ecology__, IB, USP
 
-- Graduate course for biology students - Profs. Paulo Inácio Prado and Alexandre Adalardo
+- Graduate course for biology students 
+- Prof. Paulo Inácio Prado and Prof. Alexandre Adalardo
 - Departamento de Ecologia
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
 __Statistical modeling for ecology and natural resources__, IB, USP
 
-- Graduate course for biology students - Profs. Paulo Inácio Prado and João Luís Ferreira Batista
+- Graduate course for biology students 
+- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
 __Field biology course in the Atlantic Forest__, IB, USP
 
-- Graduate course in ecology and scientific writing - Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+- Graduate course in ecology and scientific writing 
+- Prof. Glaudo Machado, Prof. Paulo Inácio Prado e Prof. Adriana Martini
 - Departamento de Ecologia
 
 `2016`
 __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2016`

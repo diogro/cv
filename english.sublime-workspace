@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"labbio"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"wor",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"foot",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"ins",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insert",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"cire",
+				"Citer: Search"
+			],
+			[
+				"citer",
+				"Citer: Search"
+			],
+			[
+				"ci",
+				"Citer: Insert Title"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 482.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/diogro/Dropbox/labbio/articles/joh-Melo_etal_2/main.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_atchley/atchley.tex",
+		"/home/diogro/ASRemlRegister.txt",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/Makefile",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_ratones/ratones.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_bookoqya/oqya.tex",
+		"/home/diogro/Dropbox/labbio/relatorios/fapesp/2018-08-13-Doutorado-Parcial-3/relatorio.mdk",
+		"/home/diogro/Dropbox/labbio/relatorios/fapesp/2016-10-30-BEPE/relatorio.mdk",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_atchley/mapping.txt",
+		"/home/diogro/Dropbox/labbio/email_usuario_servidor.md",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_JoH-Melo_etal/joh.tex",
+		"/home/diogro/Dropbox/labbio/articles/published/Ratones-article/madoko/madoko.mdk",
+		"/home/diogro/Dropbox/labbio/articles/published/Ratones-article/supporting_information.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_annual_review/copyright",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_ratones/ratones_convert.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_annual_review/aree.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_annual_review/Literature Cited",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/mestrado.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_annual_review/aree_text.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/LICENÇA",
+		"/home/diogro/.config/sublime-text-3/Packages/User/Citer.sublime-settings",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/NOTAS",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/X.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_bookoqya/refs.bib",
+		"/home/diogro/Downloads/nrg2099.ris",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/pre.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/meta.tex",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_JoH-Melo_etal/refs.bib",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/chapter_annual_review/refs.bib",
+		"/home/diogro/Dropbox/labbio/articles/TeseDoutorado/cap1.tex",
+		"/home/diogro/Dropbox/labbio/relatorios/fapesp/2018-08-13-Doutorado-Parcial-3/Makefile",
+		"/home/diogro/Downloads/joh.tex",
+		"/home/diogro/Downloads/joh-methods.tex",
+		"/home/diogro/Downloads/References from .bib",
+		"/home/diogro/Dropbox/labbio/posters/2015 - 05 - 25  - Evolution2015/conference_poster_6.tex",
+		"/home/diogro/Desktop/rohlf.md",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/fig1_legend.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/abstract.txt",
+		"/home/diogro/projects/EL-snp_selection/output/growth_r-ped_univariate_t1_chr1.assoc.txt",
+		"/home/diogro/projects/EL-snp_selection/output/growth_r-ped_univariate_t1_chr2.assoc.txt",
+		"/home/diogro/projects/EL-snp_selection/output/growth_r-ped_univariate_t6_chr2.assoc.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/fig5 _ legend.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/conclusions.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/methods.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/references.txt",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/authors.txt",
+		"/home/diogro/Dropbox/labbio/posters/2015 - 05 - 25  - Evolution2015/conference_poster_6.aux",
+		"/home/diogro/projects/evomod_julia/corridor.txt",
+		"/home/diogro/projects/evomod_julia/data/corridor.txt",
+		"/home/diogro/projects/EL-snp_selection/output/growth_r-ped_multivariate_t1-6_chr1.log.txt",
+		"/home/diogro/projects/evomod_julia/data/figures/pleioVectors_corridor.pdf",
+		"/home/diogro/Downloads/References from Journal of Heredity - 2018 &hellip;.bib",
+		"/home/diogro/Dropbox/labbio/posters/2018 - 07 - 19 - Evolution2018/refereneces.txt",
+		"/home/diogro/Dropbox/Cursos/NIMBIOS-Search for selection/lecture_names.md",
+		"/home/diogro/Dropbox/labbio/articles/bookoqya/refs.bib",
+		"/home/diogro/Dropbox/labbio/articles/bookoqya/bookoqya.mdk",
+		"/home/diogro/Dropbox/labbio/articles/bookoqya/bibs.bib",
+		"/home/diogro/Dropbox/labbio/articles/reply_Goswami/main.tex",
+		"/home/diogro/Dropbox/labbio/articles/reply_Goswami/table_intXn.tex",
+		"/home/diogro/Dropbox/labbio/articles/reply_Goswami/TableInt_rar.tex",
+		"/home/diogro/Dropbox/labbio/articles/reply_Goswami/TableInt.tex",
+		"/home/diogro/Dropbox/labbio/articles/reply_Goswami/table_gos.tex",
+		"/home/diogro/Desktop/NubileFilms.13.04.26.Evfrat.Mai.Grace.Hartley.And.Xenia.Menage.A.Trois.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/Mathematica_11.2.0_LINUX.sh",
+		"/home/diogro/Downloads/d_question.TPS",
+		"/home/diogro/bin/briss-0.9/README.txt",
+		"/home/diogro/Desktop/Baebz.17.01.04.Leah.Gotti.And.Nina.North.Brunette.Threesome.XXX.MP4-SDCLiP.nzb",
+		"/home/diogro/.cache/.fr-Rv8Rbb/Plex Media Server.log",
+		"/home/diogro/.cache/.fr-ec4gsO/Plex Media Server.log",
+		"/home/diogro/.cache/.fr-0frKag/Plex Media Server.1.log",
+		"/home/diogro/.cache/.fr-YMUUvq/Plex Media Server.log",
+		"/home/diogro/Dropbox/labbio/code/SRD/labels_NWM.txt",
+		"/home/diogro/Dropbox/labbio/code/SRD/distancias_NWM.txt",
+		"/home/diogro/Dropbox/labbio/code/SRD/tracos_NWM.txt",
+		"/home/diogro/Dropbox/labbio/code/SRD/G_Rodentia.txt",
+		"/home/diogro/Dropbox/Gabarito Processos 2017 Noturno.md",
+		"/home/diogro/Dropbox/Misc/ohlife_20141013.txt",
+		"/home/diogro/Dropbox/Misc/conto.txt",
+		"/home/diogro/selected",
+		"/home/diogro/ws",
+		"/home/diogro/Desktop/Baeb.17.04.26.Elsa.Jean.Submissive.Spinner.XXX.MP4-SDCLiP.nzb",
+		"/home/diogro/Desktop/Crimson.Tide.1995.720p.BluRay.x264-ESiR.nzb",
+		"/home/diogro/Desktop/Crimson.Tide.1995.BluRay.480p.H264-20-40.nzb",
+		"/home/diogro/Desktop/Home.Again.2017.BRRip.XviD.AC3-EVO.nzb",
+		"/home/diogro/Downloads/000478648.txt",
+		"/home/diogro/Dropbox/labbio/Shared Lab/Lugar - Ogro/tracos_NWM.txt",
+		"/home/diogro/Dropbox/labbio/code/SRD/labels_pc1.txt",
+		"/home/diogro/Dropbox/labbio/code/SRD/SaguinusG.txt",
+		"/home/diogro/Desktop/DigitalPlayground.16.07.22.Eva.Lovia.And.Mia.Malkova.A.New.Direction.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Vixen.17.01.24.Eva.Lovia.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/ShareMyBF.17.03.05.Eva.Lovia.And.Haley.Reed.Snowballing.Stepsister.And.GF.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Tushy.17.07.10.Eva.Lovia.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Baeb.17.06.26.Eva.Lovia.My.Fuck.Boy.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Vixen.17.04.19.Keisha.Grey.And.Eva.Lovia.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/Tushy.16.08.04.Keisha.Grey.And.Leah.Gotti.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Tushy.16.08.04.Keisha.Grey.And.Leah.Gotti.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Dropbox/Shared/usp/salarios_usp.txt",
+		"/home/diogro/Downloads/X-Art.17.03.11.Kenna.James.Kennas.Sexual.Fantasy.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.08.06.Susie.Up.Close.And.Personal.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.07.29.Kenna.James.And.Elena.Koshka.Sex.For.Three.By.The.Sea.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.07.15.Misty.Definitely.Not.So.Shy.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.07.07.Carrie.And.Alecia.Summer.Lovers.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.06.23.Alecia.Black.Lace.And.Blonde.Hair.In.My.Bed.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.06.20.Summer.And.Sybil.Summer.Sex.With.Sybil.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.06.10.Kim.Love.In.Prague.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.06.01.Kim.An.Afternoon.Inside.Kim.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.05.06.Gina.Fucking.Unicorns.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.03.25.Cayla.And.Vinna.Call.Girls.Call.In.A.Threesome.You.Will.Never.Forget.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/X-Art.17.03.17.Mary.Kalisy.Strip.And.Poke.Her.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/X-Art.17.10.06.Sybil.Love.Burns.Again.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/X-Art.17.09.15.Elena.Koshka.Piano.Concerto.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/X-Art.17.08.12.Carrie.Fit.For.A.Fuck.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/The.Vietnam.War.S01E01.REPACK.1080p.WEB-DL.AAC2.0.H.264-TOPKEK.nzb",
+		"/home/diogro/Desktop/The.Vietnam.War.S01E01.REPACK.720p.WEB-DL.AAC2.0.H.264-BOOP.nzb",
+		"/home/diogro/Downloads/SampleSlidersOriginalTPS.tps",
+		"/home/diogro/Downloads/amazonfax.md",
+		"/home/diogro/ProgramasRFB/IRPF2017/aplicacao/dados/release_properties.xml",
+		"/home/diogro/data",
+		"/home/diogro/Desktop/Tushy.16.07.10.Alaina.Dawson.XXX.SD.MP4-RARBG.nzb",
+		"/home/diogro/Desktop/TeacherFucksTeens.16.04.25.Alaina.Dawson.And.Allie.Eve.Knox.Horny.Teacher.Seduces.Students.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/[NihilCumsteR]_-_BangBros.16.02.19.to.16.09.09.Alaina.Dawson.MegaPack.all.6.scenes.[reSize].720p.XXX-NCR.nzb",
+		"/home/diogro/Desktop/POVAngels.16.12.15.Alaina.Dawson.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/Package Control Messages",
+		"/home/diogro/Desktop/Tushy.16.07.10.Alaina.Dawson.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Desktop/ATKGirlfriends.16.07.06.Alaina.Dawson.And.Molly.Manson.XXX.1080p.MP4-KTR.nzb",
+		"/home/diogro/Downloads/Louis.Theroux_.My.Scientology.Movie.nzb",
+		"/home/diogro/Downloads/Louis.Theroux-My.Scientology.Movie.2015.720p.WEB.h264-WaLMaRT (1).nzb",
+		"/home/diogro/Desktop/My.Scientology.Movie.2015.LIMITED.DVDRip.x264-CADAVER.nzb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "english.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/labbio/relatorios/fapesp/fapesp-relatorio-2016-03-10-Doutorado-Parcial-1/relatorio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
