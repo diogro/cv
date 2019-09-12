@@ -74,6 +74,12 @@ __Molecular Sciences Course__
 ## Research Articles
 
 `2019`
+[Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size]()
+
+- Machado F, A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
+- __Evolution__. Accepted, in press.
+
+`2019`
 [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
 
 - __Diogo Melo__, G. Marroig,  J. B. Wolf
