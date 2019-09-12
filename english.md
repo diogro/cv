@@ -48,8 +48,8 @@ __Visiting PhD scholar at the University of Bath__
 
 - University of Bath
 - Supervisor: Dr. Jason Wolf
-- Funded by FAPESP international travel grant
-- Funded by the Future Research Leaders Incubator Scheme and Global Research Scholarship Scheme from the University of Bath
+- Funded by FAPESP international travel grant (2016)
+- Funded by the Future Research Leaders Incubator Scheme (2016) and Global Research Scholarship Scheme (2014) from the University of Bath
 
 `2010-12`
 __Master's Degree in Genetics and Evolutionary Biology__
