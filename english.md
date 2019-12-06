@@ -12,7 +12,7 @@ title: Currículo Vitae Diogo Melo
 | <a href="http://bit.ly/DMeloCV">Current CV: bit.ly/DMeloCV</a>
 </div>
 
-### Research interest
+### Research Scope 
 
 My work focuses on understanding the interplay between genetic and environmental covariation in shaping phenotypic differences between individuals and complex trait evolution. Organisms are integrated systems; their phenotypic attributes are the result of dynamic and complex networks of interactions between genes, transcripts, development, and their environment. I aim to understand how this complex genetic architecture responds to environmental perturbation and genetic variation, and how these networks lead to the wide array of phenotypic variation we observe in nature. I plan to address these broad questions using natural genetic variation in the model species Drosophila and will integrate systems genetics into an evolutionary framework. My research couples quantitative and population genetics with functional genomics and computational tools.
 
