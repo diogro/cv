@@ -74,16 +74,22 @@ __Molecular Sciences Course__
 ## Research Articles
 
 `2019`
+[Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
+
+- __Diogo Melo__, G. Marroig,  J. B. Wolf
+- __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
+
+`2019`
 [Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size]()
 
 - Machado F., A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
 - __Evolution__. Accepted, in press.
 
 `2019`
-[Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
+[Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels](https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881)
 
-- __Diogo Melo__, G. Marroig,  J. B. Wolf
-- __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
+- Fukimoto N., __Diogo Melo__, R. Palme, A. J. Zanella, O. Mendonça-Furtado
+- __Applied Animal Behaviour Science__. 2019 In press. doi:10.1016/j.applanim.2019.104919
 
 
 `2017` 
