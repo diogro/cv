@@ -9,7 +9,7 @@ title: Currículo Vitae Diogo Melo
 | <a href="https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en">scholar</a>
 | <a href="http://github.com/diogro">github/diogro</a>
 | +55 11 98115 4876
-|
+| <a href="http://bit.ly/DMeloCV">Updated: bit.ly/DMeloCV</a>
 </div>
 
 ### Skills
