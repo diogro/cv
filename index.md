@@ -278,6 +278,11 @@ __Summer School on Soft Matter Physics__, São Paulo, Brazil
 
 ## Teaching
 
+`2020` __Science Writing__, IB, USP
+
+- Graduate level course offered to all graduate programs at IB/USP
+- 32h workload
+
 `2017, 2019`
 __Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
 
