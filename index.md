@@ -88,13 +88,13 @@ __Molecular Sciences Course__
 `2021`
 [Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
 
-- Simon K.G. Forsberg, Diogo Melo, Jennifer K. Grenier ,Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
+- Simon K.G. Forsberg, __Diogo Melo__, Jennifer K. Grenier ,Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
 - in prep.
 
 `2021`
 [YAMDA: A hierarchical maximum likelihood modularity detection algorithm](https://github.com/diogro/yamda-r)
 
-- Diogo Melo, Fabio Machado
+- __Diogo Melo__, Fabio Machado
 - in prep.
 
 
