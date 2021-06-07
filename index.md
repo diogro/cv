@@ -100,6 +100,13 @@ __Molecular Sciences Course__
 
 ## Research Articles
 
+`2020`
+[Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels](https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881)
+
+- Fukimoto N., __Diogo Melo__, R. Palme, A. J. Zanella, O. Mendonça-Furtado
+- __Applied Animal Behaviour Science__. 2019, in press. doi:10.1016/j.applanim.2019.104919
+
+
 `2019`
 [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
 
@@ -111,12 +118,6 @@ __Molecular Sciences Course__
 
 - Machado F., A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
 - __Evolution__. 2019, in press. doi:10.1111/evo.13864
-
-`2019`
-[Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels](https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881)
-
-- Fukimoto N., __Diogo Melo__, R. Palme, A. J. Zanella, O. Mendonça-Furtado
-- __Applied Animal Behaviour Science__. 2019, in press. doi:10.1016/j.applanim.2019.104919
 
 
 `2017` 
