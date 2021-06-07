@@ -128,7 +128,7 @@ __Molecular Sciences Course__
 - &#42; co-first authors
 
 
-` 2017` 
+`2017` 
 [Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
 
 - Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
