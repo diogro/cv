@@ -82,6 +82,22 @@ __Molecular Sciences Course__
 - Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
 - Universidade de São Paulo
 
+## Articles in progress
+
+
+`2021`
+[Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
+
+- Simon K.G. Forsberg, Diogo Melo, Jennifer K. Grenier ,Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
+- in prep.
+
+`2021`
+[YAMDA: A hierarchical maximum likelihood modularity detection algorithm](https://github.com/diogro/yamda-r)
+
+- Diogo Melo, Fabio Machado
+- in prep.
+
+
 ## Research Articles
 
 `2019`
