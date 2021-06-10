@@ -36,7 +36,7 @@ __Postdoctoral researcher__
 - Princeton Presidential Postdoctoral Fellow
 
 
-`2019-2020`
+`2019-20`
 __Postdoctoral researcher__
 
 - Universidade de São Paulo
@@ -47,7 +47,7 @@ __Postdoctoral researcher__
 
 ## Education
 
-`2014-2018`
+`2014-18`
 __Doctoral Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
@@ -251,11 +251,18 @@ __10th International Mammalogical Congress__, Mendoza, Argentina
 
 ## Research
 
-`2008-current`
+`2020-current`
+__Ayroles Lab__, Lewis-Sigler Institute of Integrative Genomics, Princeton University
+
+- Using experimental populations to understand gene by environment interactions
+- Uncovering the role of epistasis in adaptation
+- Novel methods for gene expression analysis
+- Using individual based simulations to understand complex trait evolution
+
+`2008-20`
 __Mammal Evolution Laboratory__, IB, USP
 
-- Computer simulations of biological populations
-- Robust estimation of covariance patterns
+- Understanding the evolution of genetic architecture
 - Multivariate statistics for morphological data
 - Efficient computer implementation of morphometric techniques
 - Linking allelic variation to genetic covariation and modularity
