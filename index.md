@@ -85,26 +85,27 @@ __Molecular Sciences Course__
 ## Articles in progress
 
 
-`2021`
+`2022`
 [Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
 
 - Simon K.G. Forsberg, __Diogo Melo__, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
 - in prep.
 
-`2021`
-[YAMDA: A hierarchical maximum likelihood modularity detection algorithm](https://github.com/diogro/yamda-r)
+`2022`
+[Clustering using the Stochastic Block Model shows that gene expression networks are not assortative]()
 
-- __Diogo Melo__, Fabio Machado
+- __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
 - in prep.
+
+`2022`
+[Morphological integration during postnatal ontogeny: implications for evolutionary biology]()
+
+- Hubbe A., F. Machado,  __Diogo Melo__, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig
+- The American Naturalist. Submitted, under review.
 
 
 ## Research Articles
 
-`2021`
-[Morphological integration during postnatal ontogeny: implications for evolutionary biology]()
-
-- Hubbe A., G. Garcia, F. Machado, H. Sebastião, A. Porto, __Diogo Melo__, J. Cheverud, G. Marroig
-- The American Naturalist. Submitted, under review.
 
 `2020`
 [Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels](https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881)
