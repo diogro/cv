@@ -335,6 +335,13 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 
 ## Teaching Assistant
 
+`2020`
+__Human Genomics: The Past, Present and Future of the Human Genome__, EEB, Princeton University
+
+- Undergraduate course 
+- Prof. Julien Ayroles, Prof. Sarah Kocher, Prof. Monah Singh
+- ISC326/EEB326/MOL326/GHP326
+
 `2012-13, 2019`
 __Evolutionary Biology__, IB, USP
 
