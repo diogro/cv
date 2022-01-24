@@ -6,72 +6,72 @@ title: Currículo Vitae Diogo Melo
 
 <div id="webaddress">
 | <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
-| <a href="https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en">scholar</a>
+| <a href="http://www.diogromelo.com">webpage</a>
 | <a href="http://github.com/diogro">github/diogro</a>
 | +55 11 98115 4876
-| <a href="http://bit.ly/DMeloCV">Current CV: bit.ly/DMeloCV</a>
+|
 </div>
 
-### Research Scope 
+### Especialidades
 
-My work focuses on understanding the interplay between genetic and environmental covariation in shaping phenotypic differences between individuals and complex trait evolution. Organisms are integrated systems; their phenotypic attributes are the result of dynamic and complex networks of interactions between genes, transcripts, development, and their environment. I aim to understand how this complex genetic architecture responds to environmental perturbation and genetic variation, and how these networks lead to the wide array of phenotypic variation we observe in nature. I plan to address these broad questions using natural genetic variation in the model species Drosophila and will integrate systems genetics into an evolutionary framework. My research couples quantitative and population genetics with functional genomics and computational tools.
+Genética quantitativa, teoria evolutiva, análise de dados em larga escala, simulações baseadas em agentes, estatística e modelagem Bayesiana.
 
-### Skills
+### Interesses de pesquisa
 
-Quantitative genetics, evolutionary theory, bioinformatics, individual-based modeling, Bayesian modeling and statistics.
+Processos evolutivos e sua interação com modularidade, arquitetura genética e desenvolvimento.
 
-### Languages
+### Línguas
 
-- Portuguese: Fluent
-- English: Fluent
+- Português: Fluente
+- Inglês: Fluente
 
-## Work
 
-`2019-current`
-__Postdoctoral researcher__
+## Formação Acadêmica
 
+`2003-07`
+__Curso de Ciências Moleculares__
+
+- Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
 - Universidade de São Paulo
-- Funded by a FAPESP postdoctoral grant
-
-
-## Education
-
-`2014-2018`
-__Doctoral Degree in Genetics and Evolutionary Biology__
-
-- Universidade de São Paulo
-- Supervisor: Dr. Gabriel Marroig
-- Fully funded by a FAPESP PhD grant
-
-`2014, 2016`
-__Visiting PhD scholar at the University of Bath__
-
-- University of Bath
-- Supervisor: Dr. Jason Wolf
-- Funded by FAPESP international travel grant (2016)
-- Funded by the Future Research Leaders Incubator Scheme (2016) and Global Research Scholarship Scheme (2014) from the University of Bath
-
-`2010-12`
-__Master's Degree in Genetics and Evolutionary Biology__
-
-- Universidade de São Paulo
-- Supervisor: Dr. Gabriel Marroig
-- Fully funded by a FAPESP masters grant
 
 
 `2007-09`
-__Biological Sciences__
+__Curso de Ciências Biológicas__
 
-- Bachelor's degree with emphasis in evolutionary biology
+- Bacharel com ênfase em Biologia Evolutiva
 - Universidade de São Paulo
 
-`2003-07`
-__Molecular Sciences Course__
+`2010-12`
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
 
-- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
+- Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
 - Universidade de São Paulo
 
-## Research Articles
+`2014-atual`
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+
+- Doutorando em Ciências com projeto "Estimativas diretas de parâmetros evolutivos via análise de QTL"
+- Universidade de São Paulo
+
+## Bolsas
+
+`2005-07`
+Bolsa de iniciação científica pelo CNPq
+
+`2010-12`
+Bolsa de Mestrado pela FAPESP
+
+`2013-14`
+Bolsa de Treinamento Técnico pela FAPESP
+
+Desenvolvimento de programas para análise de dados evolutivos e
+simulações de populações biológicas.
+
+`2015-atual`
+Bolsa de Doutorado pela FAPESP
+
+
+## Publicações
 
 `2019`
 [Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
@@ -156,7 +156,7 @@ __Molecular Sciences Course__
 - Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
 - __Evolutionary Biology__, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
 
-## Book chapters
+## Capítulos de livro
 
 `2019`
 [How does modularity in the genotype-phenotype map interact with development and evolution?](https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11)
@@ -171,7 +171,8 @@ __Molecular Sciences Course__
 - Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
-## Conferences and meetings
+
+## Posters e congressos
 
 `2018`
 **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
@@ -186,7 +187,7 @@ __5th meeting of the European Society for Evolutionary Developmental Biology (EE
 
 - __Diogo Melo__, Gabriel Marroig
 - The Evolution of Pleiotropy and Modularity
-- Invited speaker 
+- Palestrante convidado
 
 
 `2015`
@@ -194,7 +195,7 @@ __5th meeting of the European Society for Evolutionary Developmental Biology (EE
 
 - **Diogo Melo**, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 - Changes in multivariate covariance structures under directional selection
-- Oral presentation
+- Apresentação oral
 
 `2015`
 **Evolution 2015, Guarujá, Brazil**
@@ -206,7 +207,7 @@ __5th meeting of the European Society for Evolutionary Developmental Biology (EE
 `2009`
 __10th International Mammalogical Congress__, Mendoza, Argentina
 
-- Attendant
+- Participante
 
 `2007`
 **V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
@@ -215,153 +216,127 @@ __10th International Mammalogical Congress__, Mendoza, Argentina
 - Order-disorder phase transitions on dissociating model lipid membranes
 - Poster
 
-## Research
+## Pesquisa
 
-`2008-current`
-__Mammal Evolution Laboratory__, IB, USP
+`2008-atual`
+__Laboratório de Evolução de Mamíferos__, IB, USP
 
-- Computer simulations of biological populations
-- Robust estimation of covariance patterns
-- Multivariate statistics for morphological data
-- Efficient computer implementation of morphometric techniques
-- Linking allelic variation to genetic covariation and modularity
+- Simulações computacionais de populações biológicas
+- Técnicas robustas para quantificação de padrões de covariância
+- Estatística multivariada para análise de dados morfológicos
+- Implementações eficientes de técnicas de morfometria
+
 
 `2005-07`
+__Termodinâmica e Física Estatística de sistemas físico-químicos e de interesse biológico__, IF, USP
 
-__Thermodynamics and statistical physics of physical systems of biological interest__, IF, USP
+- Simulações computacionais de membranas biológicas
 
-- Computer simulations of biological membranes
+## Formação Complementar
 
-## Additional Education
+`2006`
+__Summer School on Soft Matter Physics__, IF, USP
 
-`2018`
-__The Search For Selection__, Knoxville, Tennessee
+`2007`
+__Course in Neurobiology__, UNESP, Rio Claro
 
-- Prof. Bruce Walsh
-- NIMBioS, University of Tennessee 
+- Prof. Michael Hendrick, Prof. Tobias Wang
 
-`2015`
-__Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
-
-- Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
-- Transmitting Science
+`2008`
+__Curso em Embriologia de Mamíferos__, ICB, USP
 
 `2008`
 __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 
 - Santa Fe Institute
 
-`2008`
-__Mammal Embryology__, São Paulo, Brazil
-- ICB, USP
+`2015`
+__Introduction to Network Tools in Biosciences - 2nd Edition__, Els Hostalets de Pierola, Spain
 
-`2007`
-__Course in Neurobiology__, Rio Claro, Brazil
-
-- Prof. Michael Hendrick and Prof. Tobias Wang
-- UNESP
-
-`2006`
-__Summer School on Soft Matter Physics__, São Paulo, Brazil
-- IF, USP
-
-## Teaching
-
-`2017, 2019`
-__Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
-
-- Graduate level course offered in the Compared biology program at FFCLRP/USP
-- 30h workload
-
-`2017`
-__MCMC: step by step__, IB, USP
-
-- Workshop on the Markov Chain Monte Carlo method.
-- 20h workload
-
-`2012`
-__Introduction to data manipulation in the R programming language__, IO, USP
-
-- Short course at the Instituto Oceanográfico - USP
-- 12h workload
+- Transmiting Science
 
 
-## Teaching Assistant
-
-`2012-13, 2019`
-__Evolutionary Biology__, IB, USP
-
-- Undergraduate course for biology students 
-- Prof. Diogo Meyer and Prof. Gabriel Marroig
-- Departamento de Genética e Biologia Evolutiva
-
-`2012-19`
-__Use of the R programming language for data analysis in ecology__, IB, USP
-
-- Graduate course for biology students 
-- Prof. Paulo Inácio Prado and Prof. Alexandre Adalardo
-- Departamento de Ecologia
-
-`2016`
-__Quantitative genetics course__, IB, USP
-- Graduate course in Quantitative Genetics
-- Prof. Gabriel Marroig, Prof. Jason Wolf, Prof. Alastair Wilson, Dr. José M Álvarez-Castro
-- Departamento de Genética e Biologia Evolutiva
-
-`2016`
-__V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
-
-- Graduate course in applied mathematics in biology
-- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
-- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+## Monitorias
 
 `2015`
-__Field biology course in the Atlantic Forest__, IB, USP
+__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
 
-- Graduate course in ecology and scientific writing 
-- Prof. Glaudo Machado, Prof. Paulo Inácio Prado e Prof. Adriana Martini
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
 - Departamento de Ecologia
 
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Graduate course in applied mathematics in biology
-- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
-__Statistical modeling for ecology and natural resources__, IB, USP
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
 
-- Graduate course for biology students 
-- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2015`
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2012-16`
+__Uso da linguagem R para análise de dados ecológicos__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
+- Departamento de Ecologia
+
+`2014`
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
-- Graduate course in applied mathematics in biology
-- Organized by Dr. M. Clerc (Santiago), Dr. R. Kraenkel (São Paulo), Dr. P.I. Prado (São Paulo)
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
-
 `2011, 2014`
-__Evolutionary Processes__, IB, USP
+__Processos Evolutivos__, IB, USP
 
-- Undergraduate course for biology students 
-- Prof. Diogo Meyer and Prof. Gabriel Marroig
+- Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
+- Programa de aperfeiçoamento de ensino (PAE)
 - Departamento de Genética e Biologia Evolutiva
 
+`2009, 2012-13`
+__Biologia Evolutiva__, IB, USP
+
+- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Departamento de Genética e Biologia Evolutiva
 
 `2007-09`
-__Membrane Physiology__, ICB, USP
+__Fisiologia de Membranas__, ICB, USP
 
-
-- Undergraduate course for medical students 
-- Prof. Antônio Cassola
+- Curso para graduação em Medicina do Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
+
+##Cursos Ministrados
+
+`2012`
+__Introdução a manipulação de dados com a linguagem R__, IO, USP
+
+- Curso na semana temática do instituto oceanográfico da USP
+- Carga horária de 12h
+
+
+`2017`
+__Modularidade: conectando padrões e processos em evolução multivariada__, FFCLRP, USP
+
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
+- Carga horária de 30h
 
 <!-- ### Footer
 
-Última Atualização: September 2019 -->
-
-
+Última Atualização: Dezembro de 2017 -->
