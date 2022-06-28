@@ -116,7 +116,7 @@ __Molecular Sciences Course__
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
 
 - Hubbe A., F. Machado,  __Diogo Melo__, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig
-- Preprint: doi.org/10.1101/2021.07.13.452198
+- bioRxiv 2021.07.13.452198; doi: https://doi.org/10.1101/2021.07.13.452198
 - Evolution. Submitted, under review.
 
 
@@ -440,6 +440,6 @@ __Membrane Physiology__, ICB, USP
 
 <!-- ### Footer
 
-Última Atualização: Abril de  2020 -->
+Última Atualização: Junho de  2022 -->
 
 
