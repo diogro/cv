@@ -90,14 +90,14 @@ __Molecular Sciences Course__
 
 - Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
 - in prep.
-- &#42;; co-first authors
+- &#42; co-first authors
 
 `2022`
 [Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
 
 - Luisa F. Pallares&#42;, __Diogo Melo__&#42;, Varada Abhyankar, Julien F. Ayroles
 - in prep.
-- &#42;; co-first authors
+- &#42; co-first authors
 
 `2022`
 [Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
@@ -110,7 +110,7 @@ __Molecular Sciences Course__
 
 - __Diogo Melo__&#42;, Luisa F. Pallares&#42;, Julien F. Ayroles
 - in prep.
-- &#42;; co-first authors
+- &#42; co-first authors
 
 `2022`
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
