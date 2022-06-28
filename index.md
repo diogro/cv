@@ -88,16 +88,16 @@ __Molecular Sciences Course__
 `2022`
 [Characterizing the landscape of gene expression variance in humans]() 
 
-- Scott Wolf&#42, __Diogo Melo__&#42, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
+- Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
 - in prep.
-- &#42; co-first authors
+- &#42;; co-first authors
 
 `2022`
 [Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
 
-- Luisa F. Pallares&#42, __Diogo Melo__&#42, Varada Abhyankar, Julien F. Ayroles
+- Luisa F. Pallares&#42;, __Diogo Melo__&#42;, Varada Abhyankar, Julien F. Ayroles
 - in prep.
-- &#42; co-first authors
+- &#42;; co-first authors
 
 `2022`
 [Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
@@ -108,9 +108,9 @@ __Molecular Sciences Course__
 `2022`
 [Clustering using the Stochastic Block Model shows that gene expression networks are not assortative]()
 
-- __Diogo Melo__&#42, Luisa F. Pallares&#42, Julien F. Ayroles
+- __Diogo Melo__&#42;, Luisa F. Pallares&#42;, Julien F. Ayroles
 - in prep.
-- &#42; co-first authors
+- &#42;; co-first authors
 
 `2022`
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
