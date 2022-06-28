@@ -86,6 +86,20 @@ __Molecular Sciences Course__
 
 
 `2022`
+[Characterizing the landscape of gene expression variance in humans]() 
+
+- Scott Wolf&#42, __Diogo Melo__&#42, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
+- in prep.
+- &#42; co-first authors
+
+`2022`
+[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
+
+- Luisa F. Pallares&#42, __Diogo Melo__&#42, Varada Abhyankar, Julien F. Ayroles
+- in prep.
+- &#42; co-first authors
+
+`2022`
 [Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
 
 - Simon K.G. Forsberg, __Diogo Melo__, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
@@ -94,14 +108,16 @@ __Molecular Sciences Course__
 `2022`
 [Clustering using the Stochastic Block Model shows that gene expression networks are not assortative]()
 
-- __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
+- __Diogo Melo__&#42, Luisa F. Pallares&#42, Julien F. Ayroles
 - in prep.
+- &#42; co-first authors
 
 `2022`
-[Morphological integration during postnatal ontogeny: implications for evolutionary biology]()
+[Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
 
 - Hubbe A., F. Machado,  __Diogo Melo__, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig
-- The American Naturalist. Submitted, under review.
+- Preprint: doi.org/10.1101/2021.07.13.452198
+- Evolution. Submitted, under review.
 
 
 ## Research Articles
@@ -334,6 +350,14 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 
 
 ## Teaching Assistant
+
+`2022`
+__GHP351: Epidemiology: An Ecological and Evolutionary Perspective__, Princeton University
+
+- Undergraduate course 
+- Prof. Benjamin Rice
+- GHP351
+
 
 `2020`
 __Human Genomics: The Past, Present and Future of the Human Genome__, Princeton University
