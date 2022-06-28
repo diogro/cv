@@ -160,8 +160,10 @@ __Molecular Sciences Course__
 `2016`
 [Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
 
-- __Diogo Melo__, A. Porto, J. M. Cheverud, G. Marroig 
+- __Diogo Melo__&#42;, A. Porto&#42;, J. M. Cheverud, G. Marroig 
 - __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 doi:10.1146/annurev-ecolsys-121415-032409
+- &#42; co-first authors
+
 
 `2016`
 [Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
