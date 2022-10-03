@@ -12,7 +12,7 @@ title: Currículo Vitae Diogo Melo
 | <a href="http://bit.ly/DMeloCV">Current CV: bit.ly/DMeloCV</a>
 </div>
 
-### Research Scope 
+### Research Scope
 
 My work focuses on understanding the interplay between genetic and environmental covariation in shaping phenotypic differences between individuals and complex trait evolution. Organisms are integrated systems; their phenotypic attributes are the result of dynamic and complex networks of interactions between genes, transcripts, development, and their environment. I aim to understand how this complex genetic architecture responds to environmental perturbation and genetic variation, and how these networks lead to the wide array of phenotypic variation we observe in nature. I plan to address these broad questions using natural genetic variation in the model species Drosophila and will integrate systems genetics into an evolutionary framework. My research couples quantitative and population genetics with functional genomics and computational tools.
 
@@ -100,13 +100,15 @@ __Molecular Sciences Course__
 - &#42; co-first authors
 
 `2022`
-[Longitudinal sequencing reveals polygenic nature of genomic response to artificial selection]() 
+[Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection]() 
 
-- Simon K.G. Forsberg, __Diogo Melo__, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
+- Simon K.G. Forsberg&#42;, __Diogo Melo__&#42;, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
 - in prep.
+- &#42; co-first authors
+
 
 `2022`
-[Clustering using the Stochastic Block Model shows that gene expression networks are not assortative]()
+[Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model]()
 
 - __Diogo Melo__&#42;, Luisa F. Pallares&#42;, Julien F. Ayroles
 - in prep.
@@ -357,7 +359,6 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 __GHP351: Epidemiology: An Ecological and Evolutionary Perspective__, Princeton University
 
 - Undergraduate course 
-- Prof. Benjamin Rice
 - GHP351
 
 
@@ -365,62 +366,53 @@ __GHP351: Epidemiology: An Ecological and Evolutionary Perspective__, Princeton 
 __Human Genomics: The Past, Present and Future of the Human Genome__, Princeton University
 
 - Undergraduate course 
-- Prof. Julien Ayroles, Prof. Sarah Kocher, Prof. Monah Singh
 - ISC326/EEB326/MOL326/GHP326
 
 `2012-13, 2019`
 __Evolutionary Biology__, IB, USP
 
 - Undergraduate course for biology students 
-- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 `2012-19`
 __Use of the R programming language for data analysis in ecology__, IB, USP
 
 - Graduate course for biology students 
-- Prof. Paulo Inácio Prado and Prof. Alexandre Adalardo
 - Departamento de Ecologia
 
 `2016`
 __Quantitative genetics course__, IB, USP
 - Graduate course in Quantitative Genetics
-- Prof. Gabriel Marroig, Prof. Jason Wolf, Prof. Alastair Wilson, José M Álvarez-Castro
 - Departamento de Genética e Biologia Evolutiva
 
 `2016`
 __V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2015`
 __Field biology course in the Atlantic Forest__, IB, USP
 
 - Graduate course in ecology and scientific writing 
-- Prof. Glaudo Machado, Prof. Paulo Inácio Prado e Prof. Adriana Martini
 - Departamento de Ecologia
 
 `2015`
 __IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 `2014`
 __Statistical modeling for ecology and natural resources__, IB, USP
 
 - Graduate course for biology students 
-- Prof. Paulo Inácio Prado and Prof. João Luís Ferreira Batista
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2014`
 __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 
 - Graduate course in applied mathematics in biology
-- Organized by M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
 
 
@@ -428,7 +420,6 @@ __III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
 __Evolutionary Processes__, IB, USP
 
 - Undergraduate course for biology students 
-- Prof. Diogo Meyer and Prof. Gabriel Marroig
 - Departamento de Genética e Biologia Evolutiva
 
 
@@ -437,7 +428,6 @@ __Membrane Physiology__, ICB, USP
 
 
 - Undergraduate course for medical students 
-- Prof. Antônio Cassola
 - Departamento de Fisiologia e Biofísica
 
 <!-- ### Footer
