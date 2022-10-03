@@ -345,7 +345,7 @@ __Modularity: connecting patterns and processes in multivariate evolution__, FFC
 `2017`
 __MCMC: step by step__, IB, USP
 
-- Workshop on the Markov Chain Monte Carlo method.
+- Workshop on the Markov Chain Monte Carlo method
 - 20h workload
 
 `2012`
