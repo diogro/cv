@@ -102,7 +102,7 @@ __Molecular Sciences Course__
 `2022`
 [Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection]() 
 
-- Simon K.G. Forsberg&#42;, __Diogo Melo__&#42;, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
+- Simon K.G. Forsberg&#42;, __Diogo Melo__&#42;, Scott Wolf, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
 - in prep.
 - &#42; co-first authors
 
