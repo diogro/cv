@@ -315,6 +315,7 @@ __Complex Systems Summer School__, San Carlos de Bariloche, Argentina
 
 `2008`
 __Mammal Embryology__, São Paulo, Brazil
+
 - ICB, USP
 
 `2007`
@@ -325,6 +326,7 @@ __Course in Neurobiology__, Rio Claro, Brazil
 
 `2006`
 __Summer School on Soft Matter Physics__, São Paulo, Brazil
+
 - IF, USP
 
 ## Teaching
@@ -382,6 +384,7 @@ __Use of the R programming language for data analysis in ecology__, IB, USP
 
 `2016`
 __Quantitative genetics course__, IB, USP
+
 - Graduate course in Quantitative Genetics
 - Departamento de Genética e Biologia Evolutiva
 
@@ -425,7 +428,6 @@ __Evolutionary Processes__, IB, USP
 
 `2007-09`
 __Membrane Physiology__, ICB, USP
-
 
 - Undergraduate course for medical students 
 - Departamento de Fisiologia e Biofísica
