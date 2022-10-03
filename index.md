@@ -339,7 +339,7 @@ __Summer School on Soft Matter Physics__, São Paulo, Brazil
 `2017, 2019`
 __Modularity: connecting patterns and processes in multivariate evolution__, FFCLRP, USP
 
-- Graduate level course offered in the Compared biology program at FFCLRP/USP
+- Graduate level course offered in the Comparative Biology program at FFCLRP/USP
 - 30h workload
 
 `2017`
@@ -358,14 +358,14 @@ __Introduction to data manipulation in the R programming language__, IO, USP
 ## Teaching Assistant
 
 `2022`
-__GHP351: Epidemiology: An Ecological and Evolutionary Perspective__, Princeton University
+__GHP351: Epidemiology: An Ecological and Evolutionary Perspective__, EEB, Princeton University
 
 - Undergraduate course 
 - GHP351
 
 
 `2020`
-__Human Genomics: The Past, Present and Future of the Human Genome__, Princeton University
+__Human Genomics: The Past, Present and Future of the Human Genome__, EEB, Princeton University
 
 - Undergraduate course 
 - ISC326/EEB326/MOL326/GHP326
