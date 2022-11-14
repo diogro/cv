@@ -114,15 +114,15 @@ __Molecular Sciences Course__
 - in prep.
 - &#42; co-first authors
 
+
+## Research Articles
+
 `2022`
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
 
 - Hubbe A., F. Machado,  __Diogo Melo__, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig
 - bioRxiv 2021.07.13.452198; doi: https://doi.org/10.1101/2021.07.13.452198
-- Evolution. Submitted, under review.
-
-
-## Research Articles
+- Evolution. accepted.
 
 
 `2020`
