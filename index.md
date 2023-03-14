@@ -84,22 +84,14 @@ __Molecular Sciences Course__
 
 ## Articles in progress
 
-
-`2022`
-[Characterizing the landscape of gene expression variance in humans]() 
-
-- Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
-- in prep.
-- &#42; co-first authors
-
-`2022`
+`2023`
 [Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
 
 - Luisa F. Pallares&#42;, __Diogo Melo__&#42;, Varada Abhyankar, Julien F. Ayroles
 - in prep.
 - &#42; co-first authors
 
-`2022`
+`2023`
 [Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection]() 
 
 - Simon K.G. Forsberg&#42;, __Diogo Melo__&#42;, Scott Wolf, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
@@ -107,22 +99,37 @@ __Molecular Sciences Course__
 - &#42; co-first authors
 
 
-`2022`
+`2023`
 [Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model]()
 
 - __Diogo Melo__&#42;, Luisa F. Pallares&#42;, Julien F. Ayroles
 - in prep.
 - &#42; co-first authors
 
+## Preprints
+
+`2023`
+[From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context](https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1.abstract)
+
+- Scott Wolf, Varada Abhyankar, __Diogo Melo__, Julien F Ayroles, Luisa F Pallares
+- bioRxiv. doi: [10.1101/2023.03.09.531909](https://doi.org/10.1101/2023.03.09.531909)
+
+`2022`
+[Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v1) 
+
+- Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
+- bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646
+)
+- &#42; co-first authors
+
 
 ## Research Articles
 
-`2022`
-[Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://www.biorxiv.org/content/10.1101/2021.07.13.452198v3.abstract)
+`2023`
+[Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://academic.oup.com/evolut/article/77/3/763/6957025)
 
 - Hubbe A., F. Machado,  __Diogo Melo__, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig
-- bioRxiv 2021.07.13.452198; doi: https://doi.org/10.1101/2021.07.13.452198
-- Evolution. accepted.
+- __Evolution__. 2023 77(3): 763–775. doi:[10.1093/evolut/qpac052](https://doi.org/10.1093/evolut/qpac052)
 
 
 `2020`
