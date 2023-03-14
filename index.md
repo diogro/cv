@@ -8,7 +8,7 @@ title: Currículo Vitae Diogo Melo
 | <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 | <a href="https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en">scholar</a>
 | <a href="http://github.com/diogro">github/diogro</a>
-| +55 11 98115 4876
+| +1 609 356 9751
 | <a href="http://bit.ly/DMeloCV">Current CV: bit.ly/DMeloCV</a>
 </div>
 
