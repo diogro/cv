@@ -115,7 +115,7 @@ __Molecular Sciences Course__
 - bioRxiv. doi: [10.1101/2023.03.09.531909](https://doi.org/10.1101/2023.03.09.531909)
 
 `2022`
-[Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v1) 
+[Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v2) 
 
 - Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
 - bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646
