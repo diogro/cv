@@ -42,7 +42,7 @@ __Postdoctoral researcher__
 - Universidade de São Paulo
 - Mammalian Evolution Lab
 - Principal Investigator: Gabriel Marroig
-- Funded by a FAPESP postdoctoral grant
+<!-- - Funded by a FAPESP postdoctoral grant -->
 
 
 ## Education
@@ -52,7 +52,7 @@ __Doctoral Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
 - Supervisor: Gabriel Marroig
-- Fully funded by a FAPESP PhD grant
+<!-- - Fully funded by a FAPESP PhD grant -->
 
 `2014, 2016`
 __Visiting PhD scholar at the University of Bath__
@@ -67,7 +67,7 @@ __Master's Degree in Genetics and Evolutionary Biology__
 
 - Universidade de São Paulo
 - Supervisor: Gabriel Marroig
-- Fully funded by a FAPESP masters grant
+<!-- - Fully funded by a FAPESP masters grant -->
 
 
 `2007-09`
