@@ -14,7 +14,7 @@ title: Currículo Vitae Diogo Melo
 
 ### Research Scope
 
-My work focuses on understanding the interplay between genetic and environmental covariation in shaping phenotypic differences between individuals and complex trait evolution. Organisms are integrated systems; their phenotypic attributes are the result of dynamic and complex networks of interactions between genes, transcripts, development, and their environment. I aim to understand how this complex genetic architecture responds to environmental perturbation and genetic variation, and how these networks lead to the wide array of phenotypic variation we observe in nature. I plan to address these broad questions using natural genetic variation in the model species Drosophila and will integrate systems genetics into an evolutionary framework. My research couples quantitative and population genetics with functional genomics and computational tools.
+My work focuses on understanding the interplay between genetic and environmental covariation in shaping phenotypic differences between individuals and complex trait evolution. Organisms are integrated systems; their phenotypic attributes are the result of dynamic and complex networks of interactions between genes, transcripts, development, and their environment. I aim to understand how this complex genetic architecture responds to environmental perturbation and genetic variation, and how these networks lead to the wide array of phenotypic variation we observe in nature. My research couples quantitative and population genetics with functional genomics and computational tools.
 
 ### Skills
 
@@ -102,23 +102,22 @@ __Molecular Sciences Course__
 ## Preprints
 
 `2023`
-[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
+[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations](https://www.biorxiv.org/content/10.1101/2023.05.20.541576v1) 
 
 - Luisa F. Pallares, __Diogo Melo__, Scott Wolf, Evan M. Cofer, Varada Abhyankar, Julie Peng, Julien F. Ayroles
-- bioRxiv. doi: []()
+- bioRxiv. doi: [10.1101/2023.05.20.541576](https://doi.org/10.1101/2023.05.20.541576)
 
 `2023`
 [From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context](https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1.abstract)
 
-- Scott Wolf, Varada Abhyankar, __Diogo Melo__, Julien F Ayroles, Luisa F Pallares
+- Scott Wolf, Varada Abhyankar, __Diogo Melo__, Julien F. Ayroles, Luisa F. Pallares
 - bioRxiv. doi: [10.1101/2023.03.09.531909](https://doi.org/10.1101/2023.03.09.531909)
 
 `2022`
 [Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v2) 
 
 - Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
-- bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646
-)
+- bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646)
 - &#42; co-first authors
 
 
