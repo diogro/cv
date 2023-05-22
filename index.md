@@ -84,12 +84,6 @@ __Molecular Sciences Course__
 
 ## Articles in progress
 
-`2023`
-[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
-
-- Luisa F. Pallares&#42;, __Diogo Melo__&#42;, Varada Abhyankar, Julien F. Ayroles
-- in prep.
-- &#42; co-first authors
 
 `2023`
 [Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection]() 
@@ -102,11 +96,16 @@ __Molecular Sciences Course__
 `2023`
 [Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model]()
 
-- __Diogo Melo__&#42;, Luisa F. Pallares&#42;, Julien F. Ayroles
+- __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
 - in prep.
-- &#42; co-first authors
 
 ## Preprints
+
+`2023`
+[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations]() 
+
+- Luisa F. Pallares, __Diogo Melo__, Scott Wolf, Evan M. Cofer, Varada Abhyankar, Julie Peng, Julien F. Ayroles
+- bioRxiv. doi: []()
 
 `2023`
 [From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context](https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1.abstract)
