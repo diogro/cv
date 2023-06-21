@@ -335,10 +335,10 @@ __Summer School on Soft Matter Physics__, São Paulo, Brazil
 
 ## Teaching
 
-`2023` __Mathematical and statistical modeling in ecology__, ICTP-SAIFR, Unesp
+`2023` __Statistical models: linking data to theory__, ICTP-SAIFR, Unesp
 
 - Graduate level course 
-- Part of the Serrapilheira [Training Program in Quantitative Ecology](https://serrapilheira.org/en/program-equips-future-scientists-to-build-bridges-between-life-sciences-and-mathematics/)
+- Part of the Serrapilheira [Training Program in Quantitative Ecology](https://www.ictp-saifr.org/qecoprogram/)
 - 30h workload
 
 `2020` __Scientific writing__, IB, USP
