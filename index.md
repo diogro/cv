@@ -335,6 +335,12 @@ __Summer School on Soft Matter Physics__, São Paulo, Brazil
 
 ## Teaching
 
+`2023` __Mathematical and statistical modeling in ecology__, ICTP-SAIFR, Unesp
+
+- Graduate level course 
+- Part of the Serrapilheira [Training Program in Quantitative Ecology](https://serrapilheira.org/en/program-equips-future-scientists-to-build-bridges-between-life-sciences-and-mathematics/)
+- 30h workload
+
 `2020` __Scientific writing__, IB, USP
 
 - Graduate level course offered to all graduate programs at IB/USP
@@ -393,7 +399,7 @@ __Quantitative genetics course__, IB, USP
 - Departamento de Genética e Biologia Evolutiva
 
 `2016`
-__V Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+__V Southern-Summer School on Mathematical Biology__, ICTP-SAIFR, Unesp
 
 - Graduate course in applied mathematics in biology
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
@@ -405,7 +411,7 @@ __Field biology course in the Atlantic Forest__, IB, USP
 - Departamento de Ecologia
 
 `2015`
-__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+__IV Southern-Summer School on Mathematical Biology__, ICTP-SAIFR, Unesp
 
 - Graduate course in applied mathematics in biology
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
@@ -417,7 +423,7 @@ __Statistical modeling for ecology and natural resources__, IB, USP
 - Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
 
 `2014`
-__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+__III Southern-Summer School on Mathematical Biology__, ICTP-SAIFR, Unesp
 
 - Graduate course in applied mathematics in biology
 - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
