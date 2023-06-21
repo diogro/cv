@@ -92,14 +92,13 @@ __Molecular Sciences Course__
 - in prep.
 - &#42; co-first authors
 
+## Preprints
 
 `2023`
 [Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model]()
 
 - __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
-- in prep.
-
-## Preprints
+- bioRxiv 2023.05.31.542906. doi: [10.1101/2023.05.31.542906](https://doi.org/10.1101/2023.05.31.542906)
 
 `2023`
 [Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations](https://www.biorxiv.org/content/10.1101/2023.05.20.541576v1) 
@@ -113,15 +112,15 @@ __Molecular Sciences Course__
 - Scott Wolf, Varada Abhyankar, __Diogo Melo__, Julien F. Ayroles, Luisa F. Pallares
 - bioRxiv. doi: [10.1101/2023.03.09.531909](https://doi.org/10.1101/2023.03.09.531909)
 
-`2022`
+## Research Articles
+
+`2023
 [Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v2) 
 
 - Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
 - bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646)
+- in press at PLoS Genetics
 - &#42; co-first authors
-
-
-## Research Articles
 
 `2023`
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://academic.oup.com/evolut/article/77/3/763/6957025)
