@@ -232,7 +232,7 @@ __Molecular Sciences Course__
 
 ## Conferences and meetings
 
-`2023
+`2023`
 **Society for Molecular Biology and Evolution (SMBE) Meeting, Ferrara, Italy**
 
 -  Forsberg S.K.G., __Diogo Melo__, Wolf S., Grenier J. K., Tang M., Henry L.P., Pallares L.F., Clark A.G., Ayroles J.
