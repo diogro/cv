@@ -267,7 +267,7 @@ __5th meeting of the European Society for Evolutionary Developmental Biology (EE
 
 - **Diogo Melo**, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
 - Changes in multivariate covariance structures under directional selection
-- Oral presentation
+- Speaker
 
 `2015`
 **Evolution 2015, Guarujá, Brazil**
