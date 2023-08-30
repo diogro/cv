@@ -95,7 +95,7 @@ __Molecular Sciences Course__
 ## Preprints
 
 `2023`
-[Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model]()
+[Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model](https://www.biorxiv.org/content/10.1101/2023.05.31.542906v1)
 
 - __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
 - bioRxiv 2023.05.31.542906. doi: [10.1101/2023.05.31.542906](https://doi.org/10.1101/2023.05.31.542906)
