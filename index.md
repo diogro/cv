@@ -115,12 +115,12 @@ __Molecular Sciences Course__
 ## Research Articles
 
 `2023`
-[Characterizing the landscape of gene expression variance in humans](https://www.biorxiv.org/content/10.1101/2022.11.15.516646v2) 
+[Characterizing the landscape of gene expression variance in humans](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010833) 
 
 - Scott Wolf&#42;, __Diogo Melo__&#42;, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles
-- bioRxiv. doi: [10.1101/2022.11.15.516646](https://doi.org/10.1101/2022.11.15.516646)
-- in press at PLoS Genetics
+- __PLoS Genetics__. 19, e1010833. doi: [10.1371/journal.pgen.1010833](http://dx.doi.org/10.1371/journal.pgen.1010833)
 - &#42; co-first authors
+
 
 `2023`
 [Morphological integration during postnatal ontogeny: implications for evolutionary biology](https://academic.oup.com/evolut/article/77/3/763/6957025)
@@ -231,6 +231,20 @@ __Molecular Sciences Course__
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
 
 ## Conferences and meetings
+
+`2023
+**Society for Molecular Biology and Evolution (SMBE) Meeting, Ferrara, Italy**
+
+-  Forsberg S.K.G., __Diogo Melo__, Wolf S., Grenier J. K., Tang M., Henry L.P., Pallares L.F., Clark A.G., Ayroles J.
+-  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
+-  Poster
+
+`2023`
+**Ecological and Evolutionary Genomics Gordon Research Conference, Smithfield, RI, United States**
+
+-  Forsberg S.K.G., __Diogo Melo__, Wolf S., Grenier J. K., Tang M., Henry L.P., Pallares L.F., Clark A.G., Ayroles J.
+-  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
+-  Poster
 
 `2018`
 **II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
