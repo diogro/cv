@@ -458,6 +458,6 @@ __Membrane Physiology__, ICB, USP
 
 <!-- ### Footer
 
-Última Atualização: Junho de  2022 -->
+Última Atualização: Agosto de  2023 -->
 
 
