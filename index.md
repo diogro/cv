@@ -5,9 +5,10 @@ title: Currículo Vitae Diogo Melo
 # Diogo Melo
 
 <div id="webaddress">
-| <a href="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+| <a href="mailto:damelo@ib.usp.br">damelo@ib.usp.br</a>
 | <a href="https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en">scholar</a>
-| <a href="http://github.com/diogro">github/diogro</a>
+| <a href="https://github.com/diogro">github/diogro</a>
+| <a href="https://damelo.net/">damelo.net</a>
 | +1 609 356 9751
 | <a href="http://bit.ly/DMeloCV">Current CV: bit.ly/DMeloCV</a>
 </div>
@@ -27,14 +28,19 @@ Quantitative genetics, evolutionary theory, bioinformatics, individual-based mod
 
 ## Work
 
-`2020-current`
+`Current`
+__Assistant Professor__
+
+- Universidade de São Paulo
+- Head of the Systems Biology, Genetics and Evolution Lab (LBSGE)
+
+`2020-24`
 __Postdoctoral researcher__
 
 - Princeton University
 - Ayroles Lab
 - Principal Investigator: Julien Ayroles
 - Princeton Presidential Postdoctoral Fellow
-
 
 `2019-20`
 __Postdoctoral researcher__
@@ -44,67 +50,13 @@ __Postdoctoral researcher__
 - Principal Investigator: Gabriel Marroig
 <!-- - Funded by a FAPESP postdoctoral grant -->
 
-
-## Education
-
-`2014-18`
-__Doctoral Degree in Genetics and Evolutionary Biology__
-
-- Universidade de São Paulo
-- Supervisor: Gabriel Marroig
-<!-- - Fully funded by a FAPESP PhD grant -->
-
-`2014, 2016`
-__Visiting PhD scholar at the University of Bath__
-
-- University of Bath
-- Supervisor: Jason Wolf
-- Funded by FAPESP international travel grant (2016)
-- Funded by the Future Research Leaders Incubator Scheme (2016) and Global Research Scholarship Scheme (2014) from the University of Bath
-
-`2010-12`
-__Master's Degree in Genetics and Evolutionary Biology__
-
-- Universidade de São Paulo
-- Supervisor: Gabriel Marroig
-<!-- - Fully funded by a FAPESP masters grant -->
-
-
-`2007-09`
-__Biological Sciences__
-
-- Bachelor's degree with emphasis in evolutionary biology
-- Universidade de São Paulo
-
-`2003-07`
-__Molecular Sciences Course__
-
-- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
-- Universidade de São Paulo
-
-## Articles in progress
-
-
-`2023`
-[Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection]() 
-
-- Simon K.G. Forsberg&#42;, __Diogo Melo__&#42;, Scott Wolf, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
-- in prep.
-- &#42; co-first authors
-
 ## Preprints
 
-`2023`
-[Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model](https://www.biorxiv.org/content/10.1101/2023.05.31.542906v1)
+`2026`
+[Conserved covariance structure underlies 60 million years of morphological diversification in primates](https://doi.org/10.64898/2026.09.09.748908)
 
-- __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
-- bioRxiv 2023.05.31.542906. doi: [10.1101/2023.05.31.542906](https://doi.org/10.1101/2023.05.31.542906)
-
-`2023`
-[Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations](https://www.biorxiv.org/content/10.1101/2023.05.20.541576v1) 
-
-- Luisa F. Pallares, __Diogo Melo__, Scott Wolf, Evan M. Cofer, Varada Abhyankar, Julie Peng, Julien F. Ayroles
-- bioRxiv. doi: [10.1101/2023.05.20.541576](https://doi.org/10.1101/2023.05.20.541576)
+- Anna Penna, __Diogo Melo__, Bruce S. Martin, Monique N. Simon, Daniela M. Rossoni, Barbara A. Costa, Guilherme Garcia, Felipe B. de Oliveira, Gabriel Marroig, Fabio A. Machado
+- bioRxiv. doi: [10.64898/2026.09.09.748908](https://doi.org/10.64898/2026.09.09.748908)
 
 `2023`
 [From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context](https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1.abstract)
@@ -113,6 +65,43 @@ __Molecular Sciences Course__
 - bioRxiv. doi: [10.1101/2023.03.09.531909](https://doi.org/10.1101/2023.03.09.531909)
 
 ## Research Articles
+
+`2026`
+[Invasion of new adaptive zones retains telltale signs of directional selection at macroevolutionary scales in mammals](https://doi.org/10.1093/evlett/qrag039)
+
+- Fabio A. Machado, Anna Penna, __Diogo Melo__, Barbara A. Costa, Thiago M. G. Zahn, Ana C. Pavan, Arthur Porto, Harley Sebastião, Daniela M. Rossoni, Gabriel Marroig, Alex Hubbe
+- __Evolution Letters__. doi: [10.1093/evlett/qrag039](https://doi.org/10.1093/evlett/qrag039)
+
+`2026`
+[Bumble bee workers adopt new roles and reshape social networks after queen loss](https://doi.org/10.1038/s42003-026-10795-8)
+
+- Dee M. Ruttenberg, Scott Wolf, Andrew E. Webb, Eli S. Wyman, Michelle L. White, __Diogo Melo__, Ian M. Traniello, Sarah D. Kocher
+- __Communications Biology__. doi: [10.1038/s42003-026-10795-8](https://doi.org/10.1038/s42003-026-10795-8)
+
+`2025`
+[Saturating the eQTL map in Drosophila: Genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations](https://doi.org/10.1016/j.xgen.2025.101033)
+
+- Luisa F. Pallares, __Diogo Melo__, Scott Wolf, Evan M. Cofer, Varada Abhyankar, Julie Peng, Julien F. Ayroles
+- __Cell Genomics__. 5(12), 101033. doi: [10.1016/j.xgen.2025.101033](https://doi.org/10.1016/j.xgen.2025.101033)
+
+`2025`
+[Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection](https://doi.org/10.1073/pnas.2410452122)
+
+- Simon K. G. Forsberg&#42;, __Diogo Melo__&#42;, Scott W. Wolf, Jennifer K. Grenier, Minjia Tang, Lucas P. Henry, Luisa F. Pallares, Andrew G. Clark, Julien F. Ayroles
+- __Proceedings of the National Academy of Sciences__. doi: [10.1073/pnas.2410452122](https://doi.org/10.1073/pnas.2410452122)
+- &#42; co-first authors
+
+`2024`
+[Disentangling variational bias: the roles of development, mutation, and selection](https://doi.org/10.1016/j.tig.2024.09.008)
+
+- Haoran Cai, __Diogo Melo__, David L. Des Marais
+- __Trends in Genetics__. doi: [10.1016/j.tig.2024.09.008](https://doi.org/10.1016/j.tig.2024.09.008)
+
+`2024`
+[Reassessing the modularity of gene co-expression networks using the Stochastic Block Model](https://doi.org/10.1371/journal.pcbi.1012300)
+
+- __Diogo Melo__, Luisa F. Pallares, Julien F. Ayroles
+- __PLOS Computational Biology__. doi: [10.1371/journal.pcbi.1012300](https://doi.org/10.1371/journal.pcbi.1012300)
 
 `2023`
 [Characterizing the landscape of gene expression variance in humans](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010833) 
@@ -217,8 +206,14 @@ __Molecular Sciences Course__
 
 ## Book chapters
 
+`2025`
+[Multivariate Quantitative Genetics](https://doi.org/10.1016/B978-0-443-15750-9.00143-9)
+
+- __Diogo Melo__
+- In: __Encyclopedia of Evolutionary Biology__, 2nd edition, Richard M. Kliman (ed.). doi: [10.1016/B978-0-443-15750-9.00143-9](https://doi.org/10.1016/B978-0-443-15750-9.00143-9)
+
 `2019`
-[How does modularity in the genotype-phenotype map interact with development and evolution?](https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11)
+[How Does Modularity in the Genotype–Phenotype Map Shape Development and Evolution?](https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11)
 
 - __Diogo Melo__
 - In: __Old Questions and Young Approaches to Animal Evolution__. Martín-Durán J., Vellutini B. (eds)
@@ -229,6 +224,51 @@ __Molecular Sciences Course__
 
 - Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
 - __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+
+## Software
+
+- [Indri](https://github.com/diogro/indri): R package for scalable genetic covariance estimation and genome-wide association scans. [Documentation](https://diogro.github.io/indri/)
+- [Stanimal](https://github.com/diogro/stanimal): R package for Bayesian animal models in Stan and genetic covariance estimation.
+- [EvolQG](https://github.com/diogro/evolqg): R package for evolutionary quantitative genetics and covariance matrix analysis.
+- [Selective surface plots](https://github.com/diogro/multiPeakSimulations): simulation and visualization of multivariate responses to selection. [Shiny app](https://curso-genevol.shinyapps.io/superficie-adaptativa/)
+
+
+## Education
+
+`2014-19`
+__Doctoral Degree in Genetics and Evolutionary Biology__
+
+- Universidade de São Paulo
+- Supervisor: Gabriel Marroig
+<!-- - Fully funded by a FAPESP PhD grant -->
+
+`2014, 2016`
+__Visiting PhD scholar at the University of Bath__
+
+- University of Bath
+- Supervisor: Jason Wolf
+- Funded by FAPESP international travel grant (2016)
+- Funded by the Future Research Leaders Incubator Scheme (2016) and Global Research Scholarship Scheme (2014) from the University of Bath
+
+`2010-12`
+__Master's Degree in Genetics and Evolutionary Biology__
+
+- Universidade de São Paulo
+- Supervisor: Gabriel Marroig
+<!-- - Fully funded by a FAPESP masters grant -->
+
+
+`2007-10`
+__Biological Sciences__
+
+- Bachelor's degree with emphasis in evolutionary biology
+- Universidade de São Paulo
+
+`2003-07`
+__Molecular Sciences Course__
+
+- Bachelor's degree with emphasis in biology, applied mathematics and statistical mechanics
+- Universidade de São Paulo
 
 ## Conferences and meetings
 
@@ -290,7 +330,13 @@ __10th International Mammalogical Congress__, Mendoza, Argentina
 
 ## Research
 
-`2020-current`
+`Current`
+__Systems Biology, Genetics and Evolution Lab (LBSGE)__, IB, USP
+
+- Investigating the evolution of genetic architecture and its influence on evolutionary trajectories
+- Combining computational approaches with quantitative genetics data
+
+`2020-24`
 __Ayroles Lab__, Lewis-Sigler Institute of Integrative Genomics, Princeton University
 
 - Using experimental populations to understand gene by environment interactions
@@ -459,5 +505,3 @@ __Membrane Physiology__, ICB, USP
 <!-- ### Footer
 
 Última Atualização: Agosto de  2023 -->
-
-
